@@ -9,8 +9,8 @@ const QuestionIndexPage = props => {
           listStyle: "none"
       }} >
             {props.questions.map(question => (
-              <li>
-                  <a href="">{question.title}</a>
+              <li key={question.id}>
+                  <a href="#ignore-me">{question.title}</a>
               </li>  
             ))}
       </ul>
