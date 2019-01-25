@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 
+import QuestionShowPage from './components/QuestionShowPage';
 
 // A react component is a function that returns a React element.
 // You React component's must use the PascalCase naming convention.
@@ -23,67 +24,67 @@ import * as serviceWorker from './serviceWorker';
 //     );
 // };
 
-const QuestionDetails = props => {
-    return (
-        <div>
-            <h2>{props.title}</h2>
-            <p>{props.body}</p>
-            <p>By {props.author.full_name}</p>
-            <p>
-                <small>Seen {props.view_count.toLocaleString()}</small> • 
-                <small>Create {props.created_at.toLocaleString()}</small> •
-                <small>Last edited {props.updated_at.toLocaleString()}</small>
-            </p>
-        </div>
-    );
-};
+// const QuestionDetails = props => {
+//     return (
+//         <div>
+//             <h2>{props.title}</h2>
+//             <p>{props.body}</p>
+//             <p>By {props.author.full_name}</p>
+//             <p>
+//                 <small>Seen {props.view_count.toLocaleString()}</small> • 
+//                 <small>Create {props.created_at.toLocaleString()}</small> •
+//                 <small>Last edited {props.updated_at.toLocaleString()}</small>
+//             </p>
+//         </div>
+//     );
+// };
 
 
-const AnswerDetails = props => {
-    return (
-        <div>
-            <p>{props.body}</p>
-            <p>
-                <small>By {props.author}</small>
-                <small>
-                    <strong>Created At:</strong>{props.created_at.toLocaleString()}
-                </small>
-            </p>
-        </div>
-    );
-};
+// const AnswerDetails = props => {
+//     return (
+//         <div>
+//             <p>{props.body}</p>
+//             <p>
+//                 <small>By {props.author}</small>
+//                 <small>
+//                     <strong>Created At:</strong>{props.created_at.toLocaleString()}
+//                 </small>
+//             </p>
+//         </div>
+//     );
+// };
 
-const QuestionShowPage = () => {
-    return (
-        <main>
-            <QuestionDetails
-                title="What is your favourite colour?"
-                body="Red, green, blue, etc."
-                author={{full_name: "Bridge Troll"}}
-                view_count={1234}
-                created_at={new Date()}
-                updated_at={new Date()}
-            />
-            <h1>–––––––––––––––––––––––––––––––––––</h1>
-            <h2>Answers</h2>
-            <AnswerDetails 
-                body="Of all the rooms to burn in your uncle's home... the kitchen! Are you mad, boy?"
-                author={{full_name: "Ulises Wisozk"}}
-                created_at={new Date()}
-            />
-            <AnswerDetails 
-                body="Of all the rooms to burn in your uncle's home... the kitchen! Are you mad, boy?"
-                author={{full_name: "Ulises Wisozk"}}
-                created_at={new Date()}
-            />
-            <AnswerDetails 
-                body="Of all the rooms to burn in your uncle's home... the kitchen! Are you mad, boy?"
-                author={{full_name: "Ulises Wisozk"}}
-                created_at={new Date()}
-            />
-        </main>
-    );
-};
+// const QuestionShowPage = () => {
+//     return (
+//         <main>
+//             <QuestionDetails
+//                 title="What is your favourite colour?"
+//                 body="Red, green, blue, etc."
+//                 author={{full_name: "Bridge Troll"}}
+//                 view_count={1234}
+//                 created_at={new Date()}
+//                 updated_at={new Date()}
+//             />
+//             <h1>–––––––––––––––––––––––––––––––––––</h1>
+//             <h2>Answers</h2>
+//             <AnswerDetails 
+//                 body="Of all the rooms to burn in your uncle's home... the kitchen! Are you mad, boy? 1"
+//                 author={{full_name: "Ulises Wisozk 1"}}
+//                 created_at={new Date()}
+//             />
+//             <AnswerDetails 
+//                 body="Of all the rooms to burn in your uncle's home... the kitchen! Are you mad, boy? 2"
+//                 author={{full_name: "Ulises Wisozk 2"}}
+//                 created_at={new Date()}
+//             />
+//             <AnswerDetails 
+//                 body="Of all the rooms to burn in your uncle's home... the kitchen! Are you mad, boy? 3"
+//                 author={{full_name: "Ulises Wisozk 3"}}
+//                 created_at={new Date()}
+//             />
+//         </main>
+//     );
+// };
 
 // In JSX, self-closing tags must be closed. <img> doesn't work, you
 // must write <img/> to close it.
