@@ -2,8 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-
 import QuestionShowPage from './components/QuestionShowPage';
+
+import App from "./components/App"
 
 // A react component is a function that returns a React element.
 // You React component's must use the PascalCase naming convention.
@@ -90,7 +91,7 @@ import QuestionShowPage from './components/QuestionShowPage';
 // must write <img/> to close it.
 // ReactDOM.render(<QuestionDetails />, document.getElementById('root'));
 // ReactDOM.render(<AnswerDetails />, document.getElementById('root'));
-ReactDOM.render(<QuestionShowPage />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
