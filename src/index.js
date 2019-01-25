@@ -19,12 +19,23 @@ const QuestionDetails = () => {
                 <small>Last edited 2 hours ago</small>
             </p>
         </div>
-    )
-}
+    );
+};
+
+const AnswerDetails = () => {
+    return (
+        <div>
+            <p>Of all the rooms to burn in your uncle's home... the kitchen! Are you mad, boy?</p> <br/>
+            <small>By Ulises Wisozk</small> <br/>
+            <small><strong>Created At</strong> about 1 month ago</small>
+        </div>
+    );
+};
+
 // In JSX, self-closing tags must be closed. <img> doesn't work, you
 // must write <img/> to close it.
-ReactDOM.render(<QuestionDetails />, document.getElementById('root'));
-
+// ReactDOM.render(<QuestionDetails />, document.getElementById('root'));
+ReactDOM.render(<AnswerDetails />, document.getElementById('root'));
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: http://bit.ly/CRA-PWA
