@@ -11,7 +11,7 @@ const AnswerList = props => {
             author={answer.author}
             created_at={answer.created_at}
           /> */}
-          <AnswerDetails {...answer} />
+          <AnswerDetails {...answer} onDeleteClick={(id) => props.onAnswerDeleteClick(id)} />
         </li>
       ))}
     </ul>
