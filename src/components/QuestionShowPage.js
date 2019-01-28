@@ -16,6 +16,7 @@ class QuestionShowPage extends Component {
     // We do this to make sure that whenever deleteQuestion will be
     // called, its `this` will refer to the instance of the component
     // where we can `setState` amongst methods.
+    this.deleteAnswer = this.deleteAnswer.bind(this);
   }
 
   deleteQuestion() {
