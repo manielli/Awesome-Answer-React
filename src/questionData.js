@@ -1,76 +1,75 @@
 export default {
-  id: 601,
-  title:
-    "Calculating the capacitor won't do anything, we need to calculate the haptic sms array!",
-  body:
-    "It is our choices, Harry, that show what we truly are, far more than our abilities.",
-  created_at: "2018-07-17T19:28:44.880Z",
-  updated_at: "2018-07-17T19:28:44.880Z",
-  like_count: 3,
-  view_count: 1271,
-  author: {
-    id: 38,
-    first_name: "Chadd",
-    last_name: "Dibbert",
-    full_name: "Chadd Dibbert",
-    created_at: "2018-07-17T19:28:40.981Z",
-    updated_at: "2018-07-17T19:28:40.981Z"
+  "id": 898,
+  "title": "If we synthesize the port, we can get to the GB capacitor through the solid state ADP microchip!",
+  "body": "The class object inherits from Chuck Norris.",
+  "like_count": 8,
+  "created_at": "2018-12-30T00:00:00.000Z",
+  "updated_at": "2018-12-30T00:00:00.000Z",
+  "view_count": 16862,
+  "author": {
+      "id": 69,
+      "first_name": "Valentine",
+      "last_name": "Altenwerth",
+      "full_name": "Valentine Altenwerth",
+      "created_at": "2019-01-17T21:46:15.638Z",
+      "updated_at": "2019-01-17T21:46:15.638Z"
   },
-  answers: [
-    {
-      id: 2016,
-      body:
-        "I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language.",
-      created_at: "2018-07-17T19:28:44.908Z",
-      updated_at: "2018-07-17T19:28:44.908Z",
-      author: {
-        id: 36,
-        first_name: "Glenda",
-        last_name: "Altenwerth",
-        created_at: "2018-07-17T19:28:40.849Z",
-        updated_at: "2018-07-17T19:28:40.849Z"
+  "answers": [
+      {
+          "id": 5089,
+          "body": "Control thy passions lest they take vengence on thee.",
+          "created_at": "2019-01-17T21:46:18.492Z",
+          "updated_at": "2019-01-17T21:46:18.492Z",
+          "author": {
+              "id": 67,
+              "first_name": "Kenneth",
+              "last_name": "Gottlieb",
+              "full_name": "Kenneth Gottlieb",
+              "created_at": "2019-01-17T21:46:15.480Z",
+              "updated_at": "2019-01-17T21:46:15.480Z"
+          }
+      },
+      {
+          "id": 5088,
+          "body": "The unexamined life is not worth living.",
+          "created_at": "2019-01-17T21:46:18.491Z",
+          "updated_at": "2019-01-17T21:46:18.491Z",
+          "author": {
+              "id": 63,
+              "first_name": "Azalee",
+              "last_name": "Dietrich",
+              "full_name": "Azalee Dietrich",
+              "created_at": "2019-01-17T21:46:15.249Z",
+              "updated_at": "2019-01-17T21:46:15.249Z"
+          }
+      },
+      {
+          "id": 5087,
+          "body": "Know how to listen, and you will profit even from those who talk badly.",
+          "created_at": "2019-01-17T21:46:18.489Z",
+          "updated_at": "2019-01-17T21:46:18.489Z",
+          "author": {
+              "id": 59,
+              "first_name": "Jon",
+              "last_name": "Snow",
+              "full_name": "Jon Snow",
+              "created_at": "2019-01-17T21:46:14.923Z",
+              "updated_at": "2019-01-17T21:46:14.923Z"
+          }
+      },
+      {
+          "id": 5086,
+          "body": "Control thy passions lest they take vengence on thee.",
+          "created_at": "2019-01-17T21:46:18.488Z",
+          "updated_at": "2019-01-17T21:46:18.488Z",
+          "author": {
+              "id": 67,
+              "first_name": "Kenneth",
+              "last_name": "Gottlieb",
+              "full_name": "Kenneth Gottlieb",
+              "created_at": "2019-01-17T21:46:15.480Z",
+              "updated_at": "2019-01-17T21:46:15.480Z"
+          }
       }
-    },
-    {
-      id: 2015,
-      body:
-        "Most programs are not write-once. They are reworked and rewritten again and again in their lived. Bugs must be debugged. Changing requirements and the need for increased functionality mean the program itself may be modified on an ongoing basis. During this process, human beings must be able to read and understand the original code. It is therefore more important by far for humans to be able to understand the program than it is for the computer.",
-      created_at: "2018-07-17T19:28:44.905Z",
-      updated_at: "2018-07-17T19:28:44.905Z",
-      author: {
-        id: 38,
-        first_name: "Chadd",
-        last_name: "Dibbert",
-        created_at: "2018-07-17T19:28:40.981Z",
-        updated_at: "2018-07-17T19:28:40.981Z"
-      }
-    },
-    {
-      id: 2014,
-      body: "Smart people underestimate the ordinarity of ordinary people.",
-      created_at: "2018-07-17T19:28:44.902Z",
-      updated_at: "2018-07-17T19:28:44.902Z",
-      author: {
-        id: 40,
-        first_name: "Jovan",
-        last_name: "Torp",
-        created_at: "2018-07-17T19:28:41.128Z",
-        updated_at: "2018-07-17T19:28:41.128Z"
-      }
-    },
-    {
-      id: 2013,
-      body:
-        "Ruby inherited the Perl philosophy of having more than one way to do the same thing. I inherited that philosophy from Larry Wall, who is my hero actually. I want to make Ruby users free. I want to give them the freedom to choose.",
-      created_at: "2018-07-17T19:28:44.899Z",
-      updated_at: "2018-07-17T19:28:44.899Z",
-      author: {
-        id: 37,
-        first_name: "Alberta",
-        last_name: "Barrows",
-        created_at: "2018-07-17T19:28:40.915Z",
-        updated_at: "2018-07-17T19:28:40.915Z"
-      }
-    }
   ]
 };
