@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import NewQuestionForm from "./NewQuestionForm";
 
 class QuestionIndexPage extends Component {
   constructor(props) {
@@ -11,6 +12,8 @@ class QuestionIndexPage extends Component {
     this.state= {
       questions: [ ...this.props.questions ]
     };
+
+    this.createQuestion = this.createQuestion.bind(this);
   }
 
   deleteQuestion(id) {
@@ -35,9 +38,22 @@ class QuestionIndexPage extends Component {
     // http://reactjs.org/docs/state-and-lifecycle.html
   }
 
+  createQuestion(params) {
+    this.setState((state) => ({
+      questions: [
+       {
+         id: Math.max(...state.questions.map(q => q.id)) + 1,
+         ...params
+       },
+       ...state.questions
+      ]
+    }));
+  }
+
   render () {
     return (
       <main>
+        <NewQuestionForm onSubmit={this.createQuestion}/>
         <h1>Questions</h1>
         <ul style={{
             padding: 0,
