@@ -1,13 +1,15 @@
 import React, { Component } from "react";
 import QuestionDetails from "./QuestionDetails";
 import AnswerList from "./AnswerList";
+import { Question } from "../requests";
 
 class QuestionShowPage extends Component {
   constructor(props) {
     super(props);
     
     this.state = {
-      question: { ...this.props.question }
+      // question: { ...this.props.question }
+      question: null
     };
 
     this.deleteQuestion = this.deleteQuestion.bind(this);
@@ -17,6 +19,19 @@ class QuestionShowPage extends Component {
     // called, its `this` will refer to the instance of the component
     // where we can `setState` amongst methods.
     this.deleteAnswer = this.deleteAnswer.bind(this);
+  }
+
+  componentDidMount() {
+    // console.log("id", this.props.match.params.id);
+    const id = this.props.match.params.id;
+
+    Question.one(id).then(question => {
+      console.log(question);
+      this.setState({
+        question: question,
+        loading: false
+      })
+    })
   }
 
   deleteQuestion() {
@@ -34,7 +49,17 @@ class QuestionShowPage extends Component {
     }));
   }
 
+
   render () {
+    
+    if (this.state.loading) {
+      return (
+        <main>
+          <h2>Loading...</h2>
+        </main>
+      );
+    }
+
     if (!this.state.question) {
         return (
           <h2>Question doesn't exist!</h2>

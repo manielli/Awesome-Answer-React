@@ -1,13 +1,17 @@
+import "../styles/App.css";
 import React, { Component } from "react";
-import "../styles/App.css"
 import QuestionShowPage from "./QuestionShowPage";
 import QuestionIndexPage from "./QuestionIndexPage";
+import NavBar from "./NavBar";
+import WelcomePage from './WelcomePage';
+import {BrowserRouter, Route} from "react-router-dom";
 
-import questionsData from "../questionsData";
-import questionData from "../questionData";
+// import questionsData from "../questionsData";
+// import questionData from "../questionData";
 // import CurrentDateTime from "./CurrentDateTime";
 
-import {Question, Session} from "../requests";
+import {Session} from "../requests";
+import { Question } from "../requests";
 
 // This allows us to use the Question and Session helper modules
 // that we created directly from the console
@@ -40,15 +44,35 @@ class App extends Component {
           currentUser: user
         })
       });
+
   }
 
   render() {
     return (
-    <div>
-      {/* <CurrentDateTime onlyTime={false} /> */}
-      <QuestionIndexPage questions={questionsData} />
-      <QuestionShowPage question={questionData} />
-    </div>      
+      // We need to wrap all components that are imported from react-router-dom
+      // within a component that is a router
+      // Here we used the BrowserRouter component to do this
+      // So now any "descendent" of the BrowserRouter can be a route
+      // or a Link, or a NavLink, etc
+      <BrowserRouter>
+        <div>
+          {/* <CurrentDateTime onlyTime={false} /> */}
+          {/* <QuestionIndexPage questions={questionsData} /> */}
+          {/* <QuestionShowPage question={questionData} /> */}
+          <NavBar />
+          {/* The Route component has many props that it uses to
+          determine which component to render and when to show that component
+          When the path matches in the url bar, it will show the compnent 
+          given to the component prop */}
+          {/* We use the `exact` prop to exactly match the url in the
+            url bar. Otherwise the path will match any path beginning with 
+            the path given to `path` prop */}
+
+          <Route path="/" exact component={WelcomePage} />
+          <Route path="/questions" exact component={QuestionIndexPage} />
+          <Route path="/questions/:id" exact component={QuestionShowPage} />
+        </div>      
+      </BrowserRouter>
     );
   } 
 }

@@ -4,6 +4,8 @@ import CurrentDateTime from "./CurrentDateTime";
 
 import { Question } from "../requests";
 
+import { Link } from 'react-router-dom';
+
 class QuestionIndexPage extends Component {
   constructor(props) {
     super(props);
@@ -14,7 +16,7 @@ class QuestionIndexPage extends Component {
 
     this.state = {
       // questions: [ ...this.props.questions ],
-      questions: [],
+      questions: null,
       shouldShowTime: true 
       // determine whether the CurrentDateTime component
       // should be displayed.
@@ -97,7 +99,8 @@ class QuestionIndexPage extends Component {
           }}>
               {this.state.questions.map(question => (
                 <li key={question.id}>
-                    <a href="#ignore-me">{question.title}</a> <br/>
+                    {/* <a href="#ignore-me">{question.title}</a> <br/> */}
+                    <Link to={`/questions/${question.id}`}>{question.title}</Link> <br />
                     <button onClick={event => {
                       // console.log("Delete clicked!");
                       this.deleteQuestion(question.id);
