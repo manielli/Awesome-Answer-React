@@ -7,7 +7,7 @@ class QuestionIndexPage extends Component {
 
     // Very temporary you should never code like this lying aroud
     // Only to play around in the console with questions
-    window.questions = props.questions;
+    // window.questions = props.questions;
 
     this.state= {
       questions: [ ...this.props.questions ]
