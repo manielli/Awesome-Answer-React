@@ -6,9 +6,13 @@ import QuestionIndexPage from "./QuestionIndexPage";
 import questionsData from "../questionsData";
 import questionData from "../questionData";
 
+// import CurrentDateTime from "./CurrentDateTime";
+
 const App = () => {
   return (
     <div>
+
+      {/* <CurrentDateTime onlyTime={false} /> */}
       <QuestionIndexPage questions={questionsData} />
       <QuestionShowPage question={questionData} />
     </div>

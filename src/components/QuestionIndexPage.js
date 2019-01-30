@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import NewQuestionForm from "./NewQuestionForm";
+import CurrentDateTime from "./CurrentDateTime";
 
 class QuestionIndexPage extends Component {
   constructor(props) {
@@ -10,7 +11,10 @@ class QuestionIndexPage extends Component {
     // window.questions = props.questions;
 
     this.state= {
-      questions: [ ...this.props.questions ]
+      questions: [ ...this.props.questions ],
+      shouldShowTime: true 
+      // determine whether the CurrentDateTime component
+      // should be displayed.
     };
 
     this.createQuestion = this.createQuestion.bind(this);
@@ -53,6 +57,10 @@ class QuestionIndexPage extends Component {
   render () {
     return (
       <main>
+        {this.state.shouldShowTime ? <CurrentDateTime onlyTime={false} /> : null}
+        <button onClick={() => this.setState({
+          shouldShowTime: !this.state.shouldShowTime
+        })} >Toggle Time Show</button>
         <NewQuestionForm onSubmit={this.createQuestion}/>
         <h1>Questions</h1>
         <ul style={{
