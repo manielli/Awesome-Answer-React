@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import NewQuestionForm from "./NewQuestionForm";
 import CurrentDateTime from "./CurrentDateTime";
 
+import { Question } from "../requests";
+
 class QuestionIndexPage extends Component {
   constructor(props) {
     super(props);
@@ -10,8 +12,9 @@ class QuestionIndexPage extends Component {
     // Only to play around in the console with questions
     // window.questions = props.questions;
 
-    this.state= {
-      questions: [ ...this.props.questions ],
+    this.state = {
+      // questions: [ ...this.props.questions ],
+      questions: [],
       shouldShowTime: true 
       // determine whether the CurrentDateTime component
       // should be displayed.
@@ -19,6 +22,15 @@ class QuestionIndexPage extends Component {
 
     this.createQuestion = this.createQuestion.bind(this);
   }
+
+  componentDidMount() {
+    Question.all().then(questions => {
+      this.setState({
+        questions: questions
+      });
+    });
+  }
+
 
   deleteQuestion(id) {
     console.log("Deleting", id);
@@ -55,6 +67,22 @@ class QuestionIndexPage extends Component {
   }
 
   render () {
+    // Initially, before we have received our list of questions from the server
+    // this.state.questions is `null`.
+    // So, until the have received them, display a loading message to
+    // the user.
+    if (!this.state.questions) {
+      return (
+        <main>
+          <h1>Loading...</h1>
+        </main>
+      );
+    }
+
+    // However, once we have received our list of questions
+    // i.e. QuestionIndexPage's state now has an array as its
+    // value for this.state.questions, we should display that
+    // list of questions.
     return (
       <main>
         {this.state.shouldShowTime ? <CurrentDateTime onlyTime={false} /> : null}

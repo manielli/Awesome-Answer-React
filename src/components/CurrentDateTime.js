@@ -11,7 +11,9 @@ class CurrentDateTime extends Component {
     }
 
     componentDidMount() {
-        // console.log("componentDidMount");
+        console.log("componentDidMount");
+        // This method is called the first time the component is rendered
+        // in the DOM. Use it to fetch data, add event listeners, etc.
         this.intervalId = setInterval(() => {
             // console.log("This is the callback to setInterval");
             this.setState({
