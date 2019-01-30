@@ -11,18 +11,18 @@ class CurrentDateTime extends Component {
     }
 
     componentDidMount() {
-        console.log("componentDidMount");
+        // console.log("componentDidMount");
         this.intervalId = setInterval(() => {
             // console.log("This is the callback to setInterval");
             this.setState({
                 date: new Date() 
             });
         }, 1000);
-        console.log('this.intervalId', this.intervalId);
+        // console.log('this.intervalId', this.intervalId);
     }
 
     componentWillUnmount() {
-        console.log("componentWillUnmount");
+        // console.log("componentWillUnmount");
         // This method is called before the component is removed
         // from the page/DOM.
         // Use it to clean up setInterval, setTimeouts, even listeners, etc.
