@@ -20,7 +20,7 @@ export default {
             "body": "Control thy passions lest they take vengence on thee.",
             "created_at": "2019-01-17T21:46:18.492Z",
             "updated_at": "2019-01-17T21:46:18.492Z",
-            "reviewer": {
+            "answerer": {
                 "id": 67,
                 "first_name": "Kenneth",
                 "last_name": "Gottlieb",
@@ -34,7 +34,7 @@ export default {
             "body": "The unexamined life is not worth living.",
             "created_at": "2019-01-17T21:46:18.491Z",
             "updated_at": "2019-01-17T21:46:18.491Z",
-            "reviewer": {
+            "answerer": {
                 "id": 63,
                 "first_name": "Azalee",
                 "last_name": "Dietrich",
@@ -48,7 +48,7 @@ export default {
             "body": "Know how to listen, and you will profit even from those who talk badly.",
             "created_at": "2019-01-17T21:46:18.489Z",
             "updated_at": "2019-01-17T21:46:18.489Z",
-            "reviewer": {
+            "answerer": {
                 "id": 59,
                 "first_name": "Jon",
                 "last_name": "Snow",
@@ -62,7 +62,7 @@ export default {
             "body": "Control thy passions lest they take vengence on thee.",
             "created_at": "2019-01-17T21:46:18.488Z",
             "updated_at": "2019-01-17T21:46:18.488Z",
-            "reviewer": {
+            "answerer": {
                 "id": 67,
                 "first_name": "Kenneth",
                 "last_name": "Gottlieb",

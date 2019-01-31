@@ -8,9 +8,10 @@ const NavBar = props => {
             {/* We use NavLink now instead of <a></a> to navigate within
             our app.
             NavLink takes a prop `to` which is a path to navigate to */}
-            <NavLink to="/">Home</NavLink>
-            <NavLink to="/questions">Questions</NavLink>
-            <CurrentDateTime onlyTime={true} />
+            <NavLink exact to="/">Home</NavLink>
+            <NavLink exact to="/questions">Questions</NavLink>
+            <NavLink exact to="/sign_in">Sign In</NavLink>
+            <CurrentDateTime onlyTime={true} style={{marginLeft: "auto"}} />
         </nav>
     )
 }

@@ -24,7 +24,7 @@ class CurrentDateTime extends Component {
     }
 
     componentWillUnmount() {
-        // console.log("componentWillUnmount");
+        console.log("componentWillUnmount");
         // This method is called before the component is removed
         // from the page/DOM.
         // Use it to clean up setInterval, setTimeouts, even listeners, etc.
@@ -34,8 +34,14 @@ class CurrentDateTime extends Component {
     }
 
     render () {
+        const {onlyTime, ...restProps} = this.props;
         return (
-            <div>Current Time: {this.props.onlyTime ? this.state.date.toLocaleTimeString() : this.state.date.toLocaleString() }</div>
+            <div className="CurrentDateTime" {...restProps} >
+                Current Time: 
+                {this.props.onlyTime 
+                    ? this.state.date.toLocaleTimeString() 
+                    : this.state.date.toLocaleString() }
+            </div>
         );
     };
 

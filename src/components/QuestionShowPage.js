@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import QuestionDetails from "./QuestionDetails";
 import AnswerList from "./AnswerList";
+
 import { Question } from "../requests";
 
 class QuestionShowPage extends Component {
@@ -23,10 +24,19 @@ class QuestionShowPage extends Component {
 
   componentDidMount() {
     // console.log("id", this.props.match.params.id);
+
+    // All components that are rendered by a Route component (like this one is)
+    // Will be given props by that Route component within these props, we are 
+    // given the param that we defined in the `path` prop to that route, in this 
+    // case since our route looks like this:
+    // <Route path="/questions/:id" component={QuestionShowPage} />
+    // We are given a property called `id` that is whatever value comes
+    // after `/questions/` from the url bar
+    
     const id = this.props.match.params.id;
 
     Question.one(id).then(question => {
-      console.log(question);
+      // console.log(question);
       this.setState({
         question: question,
         loading: false

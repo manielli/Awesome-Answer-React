@@ -39,7 +39,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.492Z",
                 "updated_at": "2019-01-17T21:46:18.492Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -53,7 +53,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:18.491Z",
                 "updated_at": "2019-01-17T21:46:18.491Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -67,7 +67,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:18.489Z",
                 "updated_at": "2019-01-17T21:46:18.489Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -81,7 +81,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.488Z",
                 "updated_at": "2019-01-17T21:46:18.488Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -114,7 +114,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.340Z",
                 "updated_at": "2019-01-17T21:46:16.340Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -128,7 +128,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:16.337Z",
                 "updated_at": "2019-01-17T21:46:16.337Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -142,7 +142,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:16.336Z",
                 "updated_at": "2019-01-17T21:46:16.336Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -156,7 +156,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.334Z",
                 "updated_at": "2019-01-17T21:46:16.334Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -170,7 +170,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.332Z",
                 "updated_at": "2019-01-17T21:46:16.332Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -184,7 +184,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.331Z",
                 "updated_at": "2019-01-17T21:46:16.331Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -198,7 +198,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.329Z",
                 "updated_at": "2019-01-17T21:46:16.329Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -212,7 +212,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.327Z",
                 "updated_at": "2019-01-17T21:46:16.327Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -245,7 +245,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.356Z",
                 "updated_at": "2019-01-17T21:46:20.356Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -259,7 +259,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.355Z",
                 "updated_at": "2019-01-17T21:46:20.355Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -273,7 +273,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.353Z",
                 "updated_at": "2019-01-17T21:46:20.353Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -287,7 +287,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.352Z",
                 "updated_at": "2019-01-17T21:46:20.352Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -301,7 +301,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.350Z",
                 "updated_at": "2019-01-17T21:46:20.350Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -315,7 +315,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.348Z",
                 "updated_at": "2019-01-17T21:46:20.348Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -329,7 +329,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.347Z",
                 "updated_at": "2019-01-17T21:46:20.347Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -343,7 +343,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.345Z",
                 "updated_at": "2019-01-17T21:46:20.345Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -357,7 +357,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:20.344Z",
                 "updated_at": "2019-01-17T21:46:20.344Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -371,7 +371,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.342Z",
                 "updated_at": "2019-01-17T21:46:20.342Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -385,7 +385,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.341Z",
                 "updated_at": "2019-01-17T21:46:20.341Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -399,7 +399,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.339Z",
                 "updated_at": "2019-01-17T21:46:20.339Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -413,7 +413,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.338Z",
                 "updated_at": "2019-01-17T21:46:20.338Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -427,7 +427,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.336Z",
                 "updated_at": "2019-01-17T21:46:20.336Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -460,7 +460,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.060Z",
                 "updated_at": "2019-01-17T21:46:20.060Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -474,7 +474,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.058Z",
                 "updated_at": "2019-01-17T21:46:20.058Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -488,7 +488,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:20.056Z",
                 "updated_at": "2019-01-17T21:46:20.056Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -502,7 +502,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.055Z",
                 "updated_at": "2019-01-17T21:46:20.055Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -516,7 +516,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.053Z",
                 "updated_at": "2019-01-17T21:46:20.053Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -530,7 +530,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.052Z",
                 "updated_at": "2019-01-17T21:46:20.052Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -544,7 +544,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.050Z",
                 "updated_at": "2019-01-17T21:46:20.050Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -558,7 +558,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.047Z",
                 "updated_at": "2019-01-17T21:46:20.047Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -572,7 +572,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.046Z",
                 "updated_at": "2019-01-17T21:46:20.046Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -586,7 +586,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.044Z",
                 "updated_at": "2019-01-17T21:46:20.044Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -600,7 +600,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.042Z",
                 "updated_at": "2019-01-17T21:46:20.042Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -614,7 +614,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.041Z",
                 "updated_at": "2019-01-17T21:46:20.041Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -628,7 +628,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.039Z",
                 "updated_at": "2019-01-17T21:46:20.039Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -642,7 +642,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:20.037Z",
                 "updated_at": "2019-01-17T21:46:20.037Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -675,7 +675,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.824Z",
                 "updated_at": "2019-01-17T21:46:19.824Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -689,7 +689,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.821Z",
                 "updated_at": "2019-01-17T21:46:19.821Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -703,7 +703,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.820Z",
                 "updated_at": "2019-01-17T21:46:19.820Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -717,7 +717,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.818Z",
                 "updated_at": "2019-01-17T21:46:19.818Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -731,7 +731,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.817Z",
                 "updated_at": "2019-01-17T21:46:19.817Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -745,7 +745,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.815Z",
                 "updated_at": "2019-01-17T21:46:19.815Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -796,7 +796,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:18.260Z",
                 "updated_at": "2019-01-17T21:46:18.260Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -810,7 +810,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:18.258Z",
                 "updated_at": "2019-01-17T21:46:18.258Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -824,7 +824,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.256Z",
                 "updated_at": "2019-01-17T21:46:18.256Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -838,7 +838,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.255Z",
                 "updated_at": "2019-01-17T21:46:18.255Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -852,7 +852,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.253Z",
                 "updated_at": "2019-01-17T21:46:18.253Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -866,7 +866,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:18.251Z",
                 "updated_at": "2019-01-17T21:46:18.251Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -880,7 +880,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.249Z",
                 "updated_at": "2019-01-17T21:46:18.249Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -894,7 +894,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:18.247Z",
                 "updated_at": "2019-01-17T21:46:18.247Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -908,7 +908,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:18.245Z",
                 "updated_at": "2019-01-17T21:46:18.245Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -922,7 +922,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.244Z",
                 "updated_at": "2019-01-17T21:46:18.244Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -936,7 +936,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:18.242Z",
                 "updated_at": "2019-01-17T21:46:18.242Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -950,7 +950,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.241Z",
                 "updated_at": "2019-01-17T21:46:18.241Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -964,7 +964,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:18.239Z",
                 "updated_at": "2019-01-17T21:46:18.239Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -978,7 +978,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.237Z",
                 "updated_at": "2019-01-17T21:46:18.237Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -1011,7 +1011,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.084Z",
                 "updated_at": "2019-01-17T21:46:17.084Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1025,7 +1025,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.082Z",
                 "updated_at": "2019-01-17T21:46:17.082Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -1039,7 +1039,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.081Z",
                 "updated_at": "2019-01-17T21:46:17.081Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -1053,7 +1053,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.079Z",
                 "updated_at": "2019-01-17T21:46:17.079Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -1067,7 +1067,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:17.077Z",
                 "updated_at": "2019-01-17T21:46:17.077Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -1081,7 +1081,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.076Z",
                 "updated_at": "2019-01-17T21:46:17.076Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -1095,7 +1095,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.074Z",
                 "updated_at": "2019-01-17T21:46:17.074Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -1109,7 +1109,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.072Z",
                 "updated_at": "2019-01-17T21:46:17.072Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -1123,7 +1123,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:17.071Z",
                 "updated_at": "2019-01-17T21:46:17.071Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1137,7 +1137,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.069Z",
                 "updated_at": "2019-01-17T21:46:17.069Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -1170,7 +1170,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:21.670Z",
                 "updated_at": "2019-01-17T21:46:21.670Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -1203,7 +1203,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.337Z",
                 "updated_at": "2019-01-17T21:46:19.337Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -1217,7 +1217,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.336Z",
                 "updated_at": "2019-01-17T21:46:19.336Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1231,7 +1231,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.334Z",
                 "updated_at": "2019-01-17T21:46:19.334Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -1245,7 +1245,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.332Z",
                 "updated_at": "2019-01-17T21:46:19.332Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -1259,7 +1259,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.331Z",
                 "updated_at": "2019-01-17T21:46:19.331Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -1273,7 +1273,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.329Z",
                 "updated_at": "2019-01-17T21:46:19.329Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1287,7 +1287,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.327Z",
                 "updated_at": "2019-01-17T21:46:19.327Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -1301,7 +1301,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:19.326Z",
                 "updated_at": "2019-01-17T21:46:19.326Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -1315,7 +1315,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.324Z",
                 "updated_at": "2019-01-17T21:46:19.324Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -1348,7 +1348,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.685Z",
                 "updated_at": "2019-01-17T21:46:16.685Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -1362,7 +1362,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.684Z",
                 "updated_at": "2019-01-17T21:46:16.684Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -1376,7 +1376,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:16.682Z",
                 "updated_at": "2019-01-17T21:46:16.682Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -1390,7 +1390,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.680Z",
                 "updated_at": "2019-01-17T21:46:16.680Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1404,7 +1404,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:16.679Z",
                 "updated_at": "2019-01-17T21:46:16.679Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1418,7 +1418,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.677Z",
                 "updated_at": "2019-01-17T21:46:16.677Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -1432,7 +1432,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.675Z",
                 "updated_at": "2019-01-17T21:46:16.675Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -1446,7 +1446,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:16.673Z",
                 "updated_at": "2019-01-17T21:46:16.673Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -1460,7 +1460,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.672Z",
                 "updated_at": "2019-01-17T21:46:16.672Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -1474,7 +1474,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.670Z",
                 "updated_at": "2019-01-17T21:46:16.670Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -1488,7 +1488,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.668Z",
                 "updated_at": "2019-01-17T21:46:16.668Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -1521,7 +1521,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.558Z",
                 "updated_at": "2019-01-17T21:46:19.558Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -1535,7 +1535,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.557Z",
                 "updated_at": "2019-01-17T21:46:19.557Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -1549,7 +1549,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:19.555Z",
                 "updated_at": "2019-01-17T21:46:19.555Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -1563,7 +1563,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.554Z",
                 "updated_at": "2019-01-17T21:46:19.554Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1577,7 +1577,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.552Z",
                 "updated_at": "2019-01-17T21:46:19.552Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1591,7 +1591,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.550Z",
                 "updated_at": "2019-01-17T21:46:19.550Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -1605,7 +1605,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:19.549Z",
                 "updated_at": "2019-01-17T21:46:19.549Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1619,7 +1619,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:19.547Z",
                 "updated_at": "2019-01-17T21:46:19.547Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -1633,7 +1633,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:19.546Z",
                 "updated_at": "2019-01-17T21:46:19.546Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -1647,7 +1647,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.544Z",
                 "updated_at": "2019-01-17T21:46:19.544Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -1661,7 +1661,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.542Z",
                 "updated_at": "2019-01-17T21:46:19.542Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -1675,7 +1675,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.541Z",
                 "updated_at": "2019-01-17T21:46:19.541Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1708,7 +1708,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.441Z",
                 "updated_at": "2019-01-17T21:46:19.441Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -1722,7 +1722,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.439Z",
                 "updated_at": "2019-01-17T21:46:19.439Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1736,7 +1736,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.438Z",
                 "updated_at": "2019-01-17T21:46:19.438Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -1750,7 +1750,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.436Z",
                 "updated_at": "2019-01-17T21:46:19.436Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -1764,7 +1764,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:19.434Z",
                 "updated_at": "2019-01-17T21:46:19.434Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -1778,7 +1778,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.433Z",
                 "updated_at": "2019-01-17T21:46:19.433Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -1811,7 +1811,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.701Z",
                 "updated_at": "2019-01-17T21:46:19.701Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -1825,7 +1825,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.699Z",
                 "updated_at": "2019-01-17T21:46:19.699Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -1839,7 +1839,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:19.695Z",
                 "updated_at": "2019-01-17T21:46:19.695Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -1853,7 +1853,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:19.652Z",
                 "updated_at": "2019-01-17T21:46:19.652Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -1867,7 +1867,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.650Z",
                 "updated_at": "2019-01-17T21:46:19.650Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -1900,7 +1900,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.082Z",
                 "updated_at": "2019-01-17T21:46:16.082Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -1914,7 +1914,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:16.080Z",
                 "updated_at": "2019-01-17T21:46:16.080Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -1947,7 +1947,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.519Z",
                 "updated_at": "2019-01-17T21:46:21.519Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -1961,7 +1961,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.517Z",
                 "updated_at": "2019-01-17T21:46:21.517Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -1975,7 +1975,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.515Z",
                 "updated_at": "2019-01-17T21:46:21.515Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -1989,7 +1989,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.513Z",
                 "updated_at": "2019-01-17T21:46:21.513Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2003,7 +2003,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:21.511Z",
                 "updated_at": "2019-01-17T21:46:21.511Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -2017,7 +2017,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.510Z",
                 "updated_at": "2019-01-17T21:46:21.510Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -2031,7 +2031,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.508Z",
                 "updated_at": "2019-01-17T21:46:21.508Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -2064,7 +2064,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.987Z",
                 "updated_at": "2019-01-17T21:46:16.987Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2078,7 +2078,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.986Z",
                 "updated_at": "2019-01-17T21:46:16.986Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -2092,7 +2092,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.984Z",
                 "updated_at": "2019-01-17T21:46:16.984Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -2106,7 +2106,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.982Z",
                 "updated_at": "2019-01-17T21:46:16.982Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2120,7 +2120,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.981Z",
                 "updated_at": "2019-01-17T21:46:16.981Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -2134,7 +2134,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.979Z",
                 "updated_at": "2019-01-17T21:46:16.979Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -2148,7 +2148,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.978Z",
                 "updated_at": "2019-01-17T21:46:16.978Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -2162,7 +2162,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.976Z",
                 "updated_at": "2019-01-17T21:46:16.976Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -2176,7 +2176,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.974Z",
                 "updated_at": "2019-01-17T21:46:16.974Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -2209,7 +2209,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.667Z",
                 "updated_at": "2019-01-17T21:46:20.667Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -2223,7 +2223,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:20.665Z",
                 "updated_at": "2019-01-17T21:46:20.665Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -2237,7 +2237,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.664Z",
                 "updated_at": "2019-01-17T21:46:20.664Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -2251,7 +2251,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.662Z",
                 "updated_at": "2019-01-17T21:46:20.662Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -2265,7 +2265,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.659Z",
                 "updated_at": "2019-01-17T21:46:20.659Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2279,7 +2279,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.657Z",
                 "updated_at": "2019-01-17T21:46:20.657Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -2293,7 +2293,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.654Z",
                 "updated_at": "2019-01-17T21:46:20.654Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -2307,7 +2307,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.653Z",
                 "updated_at": "2019-01-17T21:46:20.653Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -2321,7 +2321,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.651Z",
                 "updated_at": "2019-01-17T21:46:20.651Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -2335,7 +2335,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.649Z",
                 "updated_at": "2019-01-17T21:46:20.649Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -2349,7 +2349,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.648Z",
                 "updated_at": "2019-01-17T21:46:20.648Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -2363,7 +2363,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.646Z",
                 "updated_at": "2019-01-17T21:46:20.646Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2377,7 +2377,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.645Z",
                 "updated_at": "2019-01-17T21:46:20.645Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -2391,7 +2391,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.643Z",
                 "updated_at": "2019-01-17T21:46:20.643Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -2405,7 +2405,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.641Z",
                 "updated_at": "2019-01-17T21:46:20.641Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -2438,7 +2438,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.476Z",
                 "updated_at": "2019-01-17T21:46:22.476Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -2471,7 +2471,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.361Z",
                 "updated_at": "2019-01-17T21:46:21.361Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -2485,7 +2485,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.360Z",
                 "updated_at": "2019-01-17T21:46:21.360Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -2499,7 +2499,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.358Z",
                 "updated_at": "2019-01-17T21:46:21.358Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -2513,7 +2513,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.356Z",
                 "updated_at": "2019-01-17T21:46:21.356Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2527,7 +2527,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.355Z",
                 "updated_at": "2019-01-17T21:46:21.355Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -2541,7 +2541,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:21.353Z",
                 "updated_at": "2019-01-17T21:46:21.353Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -2592,7 +2592,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.139Z",
                 "updated_at": "2019-01-17T21:46:19.139Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2625,7 +2625,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.268Z",
                 "updated_at": "2019-01-17T21:46:21.268Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -2639,7 +2639,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.266Z",
                 "updated_at": "2019-01-17T21:46:21.266Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -2653,7 +2653,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.264Z",
                 "updated_at": "2019-01-17T21:46:21.264Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -2667,7 +2667,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.263Z",
                 "updated_at": "2019-01-17T21:46:21.263Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -2681,7 +2681,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.261Z",
                 "updated_at": "2019-01-17T21:46:21.261Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -2695,7 +2695,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.259Z",
                 "updated_at": "2019-01-17T21:46:21.259Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -2709,7 +2709,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:21.257Z",
                 "updated_at": "2019-01-17T21:46:21.257Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -2723,7 +2723,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.256Z",
                 "updated_at": "2019-01-17T21:46:21.256Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -2756,7 +2756,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.859Z",
                 "updated_at": "2019-01-17T21:46:18.859Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -2770,7 +2770,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.858Z",
                 "updated_at": "2019-01-17T21:46:18.858Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -2784,7 +2784,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:18.856Z",
                 "updated_at": "2019-01-17T21:46:18.856Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -2798,7 +2798,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.854Z",
                 "updated_at": "2019-01-17T21:46:18.854Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -2831,7 +2831,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.915Z",
                 "updated_at": "2019-01-17T21:46:19.915Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -2845,7 +2845,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.914Z",
                 "updated_at": "2019-01-17T21:46:19.914Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -2859,7 +2859,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:19.912Z",
                 "updated_at": "2019-01-17T21:46:19.912Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -2873,7 +2873,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.910Z",
                 "updated_at": "2019-01-17T21:46:19.910Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -2887,7 +2887,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.908Z",
                 "updated_at": "2019-01-17T21:46:19.908Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -2901,7 +2901,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:19.907Z",
                 "updated_at": "2019-01-17T21:46:19.907Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -2915,7 +2915,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.905Z",
                 "updated_at": "2019-01-17T21:46:19.905Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2929,7 +2929,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.904Z",
                 "updated_at": "2019-01-17T21:46:19.904Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -2943,7 +2943,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.901Z",
                 "updated_at": "2019-01-17T21:46:19.901Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -2957,7 +2957,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:19.900Z",
                 "updated_at": "2019-01-17T21:46:19.900Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -2971,7 +2971,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.898Z",
                 "updated_at": "2019-01-17T21:46:19.898Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -2985,7 +2985,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.897Z",
                 "updated_at": "2019-01-17T21:46:19.897Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -2999,7 +2999,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:19.895Z",
                 "updated_at": "2019-01-17T21:46:19.895Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3013,7 +3013,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.893Z",
                 "updated_at": "2019-01-17T21:46:19.893Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -3027,7 +3027,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.891Z",
                 "updated_at": "2019-01-17T21:46:19.891Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -3060,7 +3060,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.557Z",
                 "updated_at": "2019-01-17T21:46:22.557Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -3074,7 +3074,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.555Z",
                 "updated_at": "2019-01-17T21:46:22.555Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3088,7 +3088,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.553Z",
                 "updated_at": "2019-01-17T21:46:22.553Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -3102,7 +3102,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.552Z",
                 "updated_at": "2019-01-17T21:46:22.552Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -3116,7 +3116,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.550Z",
                 "updated_at": "2019-01-17T21:46:22.550Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -3130,7 +3130,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.549Z",
                 "updated_at": "2019-01-17T21:46:22.549Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -3144,7 +3144,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.547Z",
                 "updated_at": "2019-01-17T21:46:22.547Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -3177,7 +3177,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.522Z",
                 "updated_at": "2019-01-17T21:46:19.522Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -3191,7 +3191,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.520Z",
                 "updated_at": "2019-01-17T21:46:19.520Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -3205,7 +3205,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.518Z",
                 "updated_at": "2019-01-17T21:46:19.518Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3219,7 +3219,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.516Z",
                 "updated_at": "2019-01-17T21:46:19.516Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -3233,7 +3233,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.514Z",
                 "updated_at": "2019-01-17T21:46:19.514Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -3247,7 +3247,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.511Z",
                 "updated_at": "2019-01-17T21:46:19.511Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -3261,7 +3261,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.509Z",
                 "updated_at": "2019-01-17T21:46:19.509Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3275,7 +3275,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.507Z",
                 "updated_at": "2019-01-17T21:46:19.507Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -3289,7 +3289,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.506Z",
                 "updated_at": "2019-01-17T21:46:19.506Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3303,7 +3303,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:19.504Z",
                 "updated_at": "2019-01-17T21:46:19.504Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3317,7 +3317,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.502Z",
                 "updated_at": "2019-01-17T21:46:19.502Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3331,7 +3331,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.501Z",
                 "updated_at": "2019-01-17T21:46:19.501Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -3364,7 +3364,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.732Z",
                 "updated_at": "2019-01-17T21:46:18.732Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -3397,7 +3397,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.670Z",
                 "updated_at": "2019-01-17T21:46:17.670Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3411,7 +3411,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.668Z",
                 "updated_at": "2019-01-17T21:46:17.668Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -3444,7 +3444,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.047Z",
                 "updated_at": "2019-01-17T21:46:17.047Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3458,7 +3458,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.045Z",
                 "updated_at": "2019-01-17T21:46:17.045Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3472,7 +3472,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.043Z",
                 "updated_at": "2019-01-17T21:46:17.043Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -3486,7 +3486,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.041Z",
                 "updated_at": "2019-01-17T21:46:17.041Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -3500,7 +3500,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.040Z",
                 "updated_at": "2019-01-17T21:46:17.040Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3514,7 +3514,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.036Z",
                 "updated_at": "2019-01-17T21:46:17.036Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -3528,7 +3528,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.034Z",
                 "updated_at": "2019-01-17T21:46:17.034Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -3542,7 +3542,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.032Z",
                 "updated_at": "2019-01-17T21:46:17.032Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -3575,7 +3575,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.404Z",
                 "updated_at": "2019-01-17T21:46:20.404Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -3589,7 +3589,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:20.403Z",
                 "updated_at": "2019-01-17T21:46:20.403Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3603,7 +3603,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.401Z",
                 "updated_at": "2019-01-17T21:46:20.401Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3617,7 +3617,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:20.399Z",
                 "updated_at": "2019-01-17T21:46:20.399Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -3631,7 +3631,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:20.398Z",
                 "updated_at": "2019-01-17T21:46:20.398Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -3645,7 +3645,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.396Z",
                 "updated_at": "2019-01-17T21:46:20.396Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3659,7 +3659,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.395Z",
                 "updated_at": "2019-01-17T21:46:20.395Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3673,7 +3673,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.393Z",
                 "updated_at": "2019-01-17T21:46:20.393Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -3706,7 +3706,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.419Z",
                 "updated_at": "2019-01-17T21:46:21.419Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3720,7 +3720,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.417Z",
                 "updated_at": "2019-01-17T21:46:21.417Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -3734,7 +3734,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.416Z",
                 "updated_at": "2019-01-17T21:46:21.416Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -3748,7 +3748,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:21.414Z",
                 "updated_at": "2019-01-17T21:46:21.414Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3762,7 +3762,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:21.413Z",
                 "updated_at": "2019-01-17T21:46:21.413Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3776,7 +3776,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.411Z",
                 "updated_at": "2019-01-17T21:46:21.411Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3809,7 +3809,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:19.632Z",
                 "updated_at": "2019-01-17T21:46:19.632Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -3823,7 +3823,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.630Z",
                 "updated_at": "2019-01-17T21:46:19.630Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -3837,7 +3837,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.628Z",
                 "updated_at": "2019-01-17T21:46:19.628Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3851,7 +3851,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.626Z",
                 "updated_at": "2019-01-17T21:46:19.626Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -3865,7 +3865,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.624Z",
                 "updated_at": "2019-01-17T21:46:19.624Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -3879,7 +3879,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.622Z",
                 "updated_at": "2019-01-17T21:46:19.622Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -3893,7 +3893,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.620Z",
                 "updated_at": "2019-01-17T21:46:19.620Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -3907,7 +3907,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.619Z",
                 "updated_at": "2019-01-17T21:46:19.619Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -3921,7 +3921,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.617Z",
                 "updated_at": "2019-01-17T21:46:19.617Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -3954,7 +3954,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.770Z",
                 "updated_at": "2019-01-17T21:46:21.770Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -3968,7 +3968,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:21.769Z",
                 "updated_at": "2019-01-17T21:46:21.769Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -3982,7 +3982,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.767Z",
                 "updated_at": "2019-01-17T21:46:21.767Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -3996,7 +3996,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.766Z",
                 "updated_at": "2019-01-17T21:46:21.766Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -4010,7 +4010,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:21.764Z",
                 "updated_at": "2019-01-17T21:46:21.764Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4024,7 +4024,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:21.762Z",
                 "updated_at": "2019-01-17T21:46:21.762Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -4038,7 +4038,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.761Z",
                 "updated_at": "2019-01-17T21:46:21.761Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -4052,7 +4052,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.759Z",
                 "updated_at": "2019-01-17T21:46:21.759Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4066,7 +4066,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.757Z",
                 "updated_at": "2019-01-17T21:46:21.757Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4080,7 +4080,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.756Z",
                 "updated_at": "2019-01-17T21:46:21.756Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -4094,7 +4094,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.754Z",
                 "updated_at": "2019-01-17T21:46:21.754Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -4108,7 +4108,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.753Z",
                 "updated_at": "2019-01-17T21:46:21.753Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4141,7 +4141,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.909Z",
                 "updated_at": "2019-01-17T21:46:21.909Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -4155,7 +4155,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.907Z",
                 "updated_at": "2019-01-17T21:46:21.907Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -4169,7 +4169,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:21.906Z",
                 "updated_at": "2019-01-17T21:46:21.906Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -4183,7 +4183,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.904Z",
                 "updated_at": "2019-01-17T21:46:21.904Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4197,7 +4197,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.903Z",
                 "updated_at": "2019-01-17T21:46:21.903Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4211,7 +4211,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.901Z",
                 "updated_at": "2019-01-17T21:46:21.901Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -4225,7 +4225,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:21.899Z",
                 "updated_at": "2019-01-17T21:46:21.899Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4258,7 +4258,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.119Z",
                 "updated_at": "2019-01-17T21:46:16.119Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -4272,7 +4272,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:16.118Z",
                 "updated_at": "2019-01-17T21:46:16.118Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -4286,7 +4286,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.116Z",
                 "updated_at": "2019-01-17T21:46:16.116Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4300,7 +4300,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.115Z",
                 "updated_at": "2019-01-17T21:46:16.115Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -4314,7 +4314,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.113Z",
                 "updated_at": "2019-01-17T21:46:16.113Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -4328,7 +4328,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.112Z",
                 "updated_at": "2019-01-17T21:46:16.112Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4361,7 +4361,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.502Z",
                 "updated_at": "2019-01-17T21:46:17.502Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -4375,7 +4375,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.500Z",
                 "updated_at": "2019-01-17T21:46:17.500Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -4389,7 +4389,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.499Z",
                 "updated_at": "2019-01-17T21:46:17.499Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -4422,7 +4422,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.184Z",
                 "updated_at": "2019-01-17T21:46:22.184Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -4436,7 +4436,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.182Z",
                 "updated_at": "2019-01-17T21:46:22.182Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -4450,7 +4450,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.180Z",
                 "updated_at": "2019-01-17T21:46:22.180Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4464,7 +4464,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.179Z",
                 "updated_at": "2019-01-17T21:46:22.179Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -4478,7 +4478,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.177Z",
                 "updated_at": "2019-01-17T21:46:22.177Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -4492,7 +4492,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.175Z",
                 "updated_at": "2019-01-17T21:46:22.175Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -4506,7 +4506,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.173Z",
                 "updated_at": "2019-01-17T21:46:22.173Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4520,7 +4520,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:22.172Z",
                 "updated_at": "2019-01-17T21:46:22.172Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -4534,7 +4534,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:22.170Z",
                 "updated_at": "2019-01-17T21:46:22.170Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -4548,7 +4548,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.168Z",
                 "updated_at": "2019-01-17T21:46:22.168Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4562,7 +4562,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.167Z",
                 "updated_at": "2019-01-17T21:46:22.167Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -4576,7 +4576,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.165Z",
                 "updated_at": "2019-01-17T21:46:22.165Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4590,7 +4590,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.164Z",
                 "updated_at": "2019-01-17T21:46:22.164Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4623,7 +4623,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.856Z",
                 "updated_at": "2019-01-17T21:46:21.856Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4637,7 +4637,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.855Z",
                 "updated_at": "2019-01-17T21:46:21.855Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4651,7 +4651,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.854Z",
                 "updated_at": "2019-01-17T21:46:21.854Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -4665,7 +4665,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:21.852Z",
                 "updated_at": "2019-01-17T21:46:21.852Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -4679,7 +4679,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.851Z",
                 "updated_at": "2019-01-17T21:46:21.851Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -4693,7 +4693,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.850Z",
                 "updated_at": "2019-01-17T21:46:21.850Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -4707,7 +4707,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:21.848Z",
                 "updated_at": "2019-01-17T21:46:21.848Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -4721,7 +4721,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:21.847Z",
                 "updated_at": "2019-01-17T21:46:21.847Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -4735,7 +4735,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:21.845Z",
                 "updated_at": "2019-01-17T21:46:21.845Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4749,7 +4749,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:21.843Z",
                 "updated_at": "2019-01-17T21:46:21.843Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4763,7 +4763,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:21.841Z",
                 "updated_at": "2019-01-17T21:46:21.841Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -4777,7 +4777,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.839Z",
                 "updated_at": "2019-01-17T21:46:21.839Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -4810,7 +4810,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.438Z",
                 "updated_at": "2019-01-17T21:46:21.438Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -4824,7 +4824,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.436Z",
                 "updated_at": "2019-01-17T21:46:21.436Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -4838,7 +4838,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.434Z",
                 "updated_at": "2019-01-17T21:46:21.434Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -4871,7 +4871,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.831Z",
                 "updated_at": "2019-01-17T21:46:16.831Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -4885,7 +4885,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.827Z",
                 "updated_at": "2019-01-17T21:46:16.827Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -4899,7 +4899,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.826Z",
                 "updated_at": "2019-01-17T21:46:16.826Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -4913,7 +4913,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.824Z",
                 "updated_at": "2019-01-17T21:46:16.824Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -4927,7 +4927,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.823Z",
                 "updated_at": "2019-01-17T21:46:16.823Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -4941,7 +4941,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.821Z",
                 "updated_at": "2019-01-17T21:46:16.821Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -4955,7 +4955,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.819Z",
                 "updated_at": "2019-01-17T21:46:16.819Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -4988,7 +4988,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.511Z",
                 "updated_at": "2019-01-17T21:46:16.511Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5002,7 +5002,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.510Z",
                 "updated_at": "2019-01-17T21:46:16.510Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -5035,7 +5035,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.616Z",
                 "updated_at": "2019-01-17T21:46:16.616Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5049,7 +5049,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:16.614Z",
                 "updated_at": "2019-01-17T21:46:16.614Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -5063,7 +5063,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.613Z",
                 "updated_at": "2019-01-17T21:46:16.613Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -5077,7 +5077,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:16.611Z",
                 "updated_at": "2019-01-17T21:46:16.611Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5091,7 +5091,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:16.609Z",
                 "updated_at": "2019-01-17T21:46:16.609Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5105,7 +5105,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.608Z",
                 "updated_at": "2019-01-17T21:46:16.608Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -5119,7 +5119,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:16.606Z",
                 "updated_at": "2019-01-17T21:46:16.606Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -5133,7 +5133,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:16.604Z",
                 "updated_at": "2019-01-17T21:46:16.604Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -5147,7 +5147,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.602Z",
                 "updated_at": "2019-01-17T21:46:16.602Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -5161,7 +5161,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:16.600Z",
                 "updated_at": "2019-01-17T21:46:16.600Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -5194,7 +5194,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.594Z",
                 "updated_at": "2019-01-17T21:46:17.594Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -5208,7 +5208,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.593Z",
                 "updated_at": "2019-01-17T21:46:17.593Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -5222,7 +5222,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.591Z",
                 "updated_at": "2019-01-17T21:46:17.591Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -5236,7 +5236,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.589Z",
                 "updated_at": "2019-01-17T21:46:17.589Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -5250,7 +5250,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:17.587Z",
                 "updated_at": "2019-01-17T21:46:17.587Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5264,7 +5264,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.585Z",
                 "updated_at": "2019-01-17T21:46:17.585Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5278,7 +5278,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.583Z",
                 "updated_at": "2019-01-17T21:46:17.583Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -5292,7 +5292,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.582Z",
                 "updated_at": "2019-01-17T21:46:17.582Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -5306,7 +5306,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.580Z",
                 "updated_at": "2019-01-17T21:46:17.580Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5320,7 +5320,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.577Z",
                 "updated_at": "2019-01-17T21:46:17.577Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -5334,7 +5334,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.575Z",
                 "updated_at": "2019-01-17T21:46:17.575Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -5367,7 +5367,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.699Z",
                 "updated_at": "2019-01-17T21:46:21.699Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -5381,7 +5381,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.698Z",
                 "updated_at": "2019-01-17T21:46:21.698Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5395,7 +5395,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.696Z",
                 "updated_at": "2019-01-17T21:46:21.696Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -5409,7 +5409,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.694Z",
                 "updated_at": "2019-01-17T21:46:21.694Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -5423,7 +5423,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.693Z",
                 "updated_at": "2019-01-17T21:46:21.693Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5437,7 +5437,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.691Z",
                 "updated_at": "2019-01-17T21:46:21.691Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -5470,7 +5470,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.734Z",
                 "updated_at": "2019-01-17T21:46:20.734Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -5484,7 +5484,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.732Z",
                 "updated_at": "2019-01-17T21:46:20.732Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -5498,7 +5498,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:20.731Z",
                 "updated_at": "2019-01-17T21:46:20.731Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -5512,7 +5512,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.729Z",
                 "updated_at": "2019-01-17T21:46:20.729Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -5526,7 +5526,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.727Z",
                 "updated_at": "2019-01-17T21:46:20.727Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -5559,7 +5559,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:18.792Z",
                 "updated_at": "2019-01-17T21:46:18.792Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -5573,7 +5573,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.791Z",
                 "updated_at": "2019-01-17T21:46:18.791Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5587,7 +5587,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.789Z",
                 "updated_at": "2019-01-17T21:46:18.789Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -5601,7 +5601,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.788Z",
                 "updated_at": "2019-01-17T21:46:18.788Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -5615,7 +5615,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.787Z",
                 "updated_at": "2019-01-17T21:46:18.787Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -5629,7 +5629,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:18.785Z",
                 "updated_at": "2019-01-17T21:46:18.785Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5643,7 +5643,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.784Z",
                 "updated_at": "2019-01-17T21:46:18.784Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -5657,7 +5657,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:18.783Z",
                 "updated_at": "2019-01-17T21:46:18.783Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5671,7 +5671,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.781Z",
                 "updated_at": "2019-01-17T21:46:18.781Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -5685,7 +5685,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.779Z",
                 "updated_at": "2019-01-17T21:46:18.779Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5699,7 +5699,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.778Z",
                 "updated_at": "2019-01-17T21:46:18.778Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -5713,7 +5713,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.776Z",
                 "updated_at": "2019-01-17T21:46:18.776Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5727,7 +5727,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:18.774Z",
                 "updated_at": "2019-01-17T21:46:18.774Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -5760,7 +5760,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.543Z",
                 "updated_at": "2019-01-17T21:46:20.543Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -5774,7 +5774,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.541Z",
                 "updated_at": "2019-01-17T21:46:20.541Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5788,7 +5788,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.540Z",
                 "updated_at": "2019-01-17T21:46:20.540Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -5802,7 +5802,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.538Z",
                 "updated_at": "2019-01-17T21:46:20.538Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5816,7 +5816,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.537Z",
                 "updated_at": "2019-01-17T21:46:20.537Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -5830,7 +5830,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.535Z",
                 "updated_at": "2019-01-17T21:46:20.535Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -5844,7 +5844,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.533Z",
                 "updated_at": "2019-01-17T21:46:20.533Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5858,7 +5858,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.532Z",
                 "updated_at": "2019-01-17T21:46:20.532Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -5872,7 +5872,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.530Z",
                 "updated_at": "2019-01-17T21:46:20.530Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -5886,7 +5886,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.529Z",
                 "updated_at": "2019-01-17T21:46:20.529Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -5900,7 +5900,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.527Z",
                 "updated_at": "2019-01-17T21:46:20.527Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -5914,7 +5914,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.525Z",
                 "updated_at": "2019-01-17T21:46:20.525Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -5947,7 +5947,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.689Z",
                 "updated_at": "2019-01-17T21:46:22.689Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -5961,7 +5961,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.687Z",
                 "updated_at": "2019-01-17T21:46:22.687Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -5975,7 +5975,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.686Z",
                 "updated_at": "2019-01-17T21:46:22.686Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -5989,7 +5989,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:22.684Z",
                 "updated_at": "2019-01-17T21:46:22.684Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -6003,7 +6003,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.682Z",
                 "updated_at": "2019-01-17T21:46:22.682Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -6017,7 +6017,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.681Z",
                 "updated_at": "2019-01-17T21:46:22.681Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -6031,7 +6031,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.679Z",
                 "updated_at": "2019-01-17T21:46:22.679Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -6045,7 +6045,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:22.677Z",
                 "updated_at": "2019-01-17T21:46:22.677Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -6059,7 +6059,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.674Z",
                 "updated_at": "2019-01-17T21:46:22.674Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -6073,7 +6073,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.672Z",
                 "updated_at": "2019-01-17T21:46:22.672Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -6087,7 +6087,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:22.671Z",
                 "updated_at": "2019-01-17T21:46:22.671Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -6101,7 +6101,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.669Z",
                 "updated_at": "2019-01-17T21:46:22.669Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -6115,7 +6115,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.668Z",
                 "updated_at": "2019-01-17T21:46:22.668Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -6129,7 +6129,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.666Z",
                 "updated_at": "2019-01-17T21:46:22.666Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -6143,7 +6143,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.664Z",
                 "updated_at": "2019-01-17T21:46:22.664Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -6176,7 +6176,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:15.970Z",
                 "updated_at": "2019-01-17T21:46:15.970Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -6190,7 +6190,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:15.969Z",
                 "updated_at": "2019-01-17T21:46:15.969Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -6204,7 +6204,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:15.967Z",
                 "updated_at": "2019-01-17T21:46:15.967Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -6218,7 +6218,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:15.966Z",
                 "updated_at": "2019-01-17T21:46:15.966Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -6232,7 +6232,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:15.964Z",
                 "updated_at": "2019-01-17T21:46:15.964Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -6246,7 +6246,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:15.963Z",
                 "updated_at": "2019-01-17T21:46:15.963Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -6260,7 +6260,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:15.961Z",
                 "updated_at": "2019-01-17T21:46:15.961Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -6274,7 +6274,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:15.959Z",
                 "updated_at": "2019-01-17T21:46:15.959Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -6288,7 +6288,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:15.957Z",
                 "updated_at": "2019-01-17T21:46:15.957Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -6302,7 +6302,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:15.955Z",
                 "updated_at": "2019-01-17T21:46:15.955Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -6316,7 +6316,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:15.953Z",
                 "updated_at": "2019-01-17T21:46:15.953Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -6349,7 +6349,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.202Z",
                 "updated_at": "2019-01-17T21:46:21.202Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -6363,7 +6363,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.200Z",
                 "updated_at": "2019-01-17T21:46:21.200Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -6377,7 +6377,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.198Z",
                 "updated_at": "2019-01-17T21:46:21.198Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -6391,7 +6391,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.197Z",
                 "updated_at": "2019-01-17T21:46:21.197Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -6405,7 +6405,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:21.195Z",
                 "updated_at": "2019-01-17T21:46:21.195Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -6419,7 +6419,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.193Z",
                 "updated_at": "2019-01-17T21:46:21.193Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -6433,7 +6433,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:21.191Z",
                 "updated_at": "2019-01-17T21:46:21.191Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -6447,7 +6447,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.190Z",
                 "updated_at": "2019-01-17T21:46:21.190Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -6461,7 +6461,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.188Z",
                 "updated_at": "2019-01-17T21:46:21.188Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -6475,7 +6475,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.187Z",
                 "updated_at": "2019-01-17T21:46:21.187Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -6489,7 +6489,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.185Z",
                 "updated_at": "2019-01-17T21:46:21.185Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -6503,7 +6503,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.183Z",
                 "updated_at": "2019-01-17T21:46:21.183Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -6517,7 +6517,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.181Z",
                 "updated_at": "2019-01-17T21:46:21.181Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -6550,7 +6550,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.484Z",
                 "updated_at": "2019-01-17T21:46:19.484Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -6564,7 +6564,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.482Z",
                 "updated_at": "2019-01-17T21:46:19.482Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -6578,7 +6578,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.481Z",
                 "updated_at": "2019-01-17T21:46:19.481Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -6592,7 +6592,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.479Z",
                 "updated_at": "2019-01-17T21:46:19.479Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -6606,7 +6606,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.477Z",
                 "updated_at": "2019-01-17T21:46:19.477Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -6620,7 +6620,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.476Z",
                 "updated_at": "2019-01-17T21:46:19.476Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -6634,7 +6634,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:19.474Z",
                 "updated_at": "2019-01-17T21:46:19.474Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -6648,7 +6648,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.473Z",
                 "updated_at": "2019-01-17T21:46:19.473Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -6662,7 +6662,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:19.471Z",
                 "updated_at": "2019-01-17T21:46:19.471Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -6676,7 +6676,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:19.469Z",
                 "updated_at": "2019-01-17T21:46:19.469Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -6709,7 +6709,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.164Z",
                 "updated_at": "2019-01-17T21:46:21.164Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -6723,7 +6723,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.162Z",
                 "updated_at": "2019-01-17T21:46:21.162Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -6737,7 +6737,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.161Z",
                 "updated_at": "2019-01-17T21:46:21.161Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -6751,7 +6751,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.159Z",
                 "updated_at": "2019-01-17T21:46:21.159Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -6765,7 +6765,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.158Z",
                 "updated_at": "2019-01-17T21:46:21.158Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -6779,7 +6779,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.156Z",
                 "updated_at": "2019-01-17T21:46:21.156Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -6793,7 +6793,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:21.154Z",
                 "updated_at": "2019-01-17T21:46:21.154Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -6807,7 +6807,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.153Z",
                 "updated_at": "2019-01-17T21:46:21.153Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -6821,7 +6821,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:21.151Z",
                 "updated_at": "2019-01-17T21:46:21.151Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -6835,7 +6835,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:21.149Z",
                 "updated_at": "2019-01-17T21:46:21.149Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -6849,7 +6849,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.148Z",
                 "updated_at": "2019-01-17T21:46:21.148Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -6863,7 +6863,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.146Z",
                 "updated_at": "2019-01-17T21:46:21.146Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -6877,7 +6877,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:21.144Z",
                 "updated_at": "2019-01-17T21:46:21.144Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -6891,7 +6891,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.143Z",
                 "updated_at": "2019-01-17T21:46:21.143Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -6924,7 +6924,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.862Z",
                 "updated_at": "2019-01-17T21:46:17.862Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -6938,7 +6938,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.860Z",
                 "updated_at": "2019-01-17T21:46:17.860Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -6952,7 +6952,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.859Z",
                 "updated_at": "2019-01-17T21:46:17.859Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -6966,7 +6966,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.857Z",
                 "updated_at": "2019-01-17T21:46:17.857Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -6980,7 +6980,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:17.855Z",
                 "updated_at": "2019-01-17T21:46:17.855Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -6994,7 +6994,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.853Z",
                 "updated_at": "2019-01-17T21:46:17.853Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -7008,7 +7008,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.851Z",
                 "updated_at": "2019-01-17T21:46:17.851Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7022,7 +7022,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.849Z",
                 "updated_at": "2019-01-17T21:46:17.849Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -7036,7 +7036,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.847Z",
                 "updated_at": "2019-01-17T21:46:17.847Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7050,7 +7050,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.845Z",
                 "updated_at": "2019-01-17T21:46:17.845Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -7064,7 +7064,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.844Z",
                 "updated_at": "2019-01-17T21:46:17.844Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -7078,7 +7078,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.842Z",
                 "updated_at": "2019-01-17T21:46:17.842Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -7092,7 +7092,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.840Z",
                 "updated_at": "2019-01-17T21:46:17.840Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -7125,7 +7125,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.740Z",
                 "updated_at": "2019-01-17T21:46:22.740Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -7139,7 +7139,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.738Z",
                 "updated_at": "2019-01-17T21:46:22.738Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -7172,7 +7172,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.443Z",
                 "updated_at": "2019-01-17T21:46:22.443Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -7186,7 +7186,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.441Z",
                 "updated_at": "2019-01-17T21:46:22.441Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -7200,7 +7200,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.440Z",
                 "updated_at": "2019-01-17T21:46:22.440Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -7214,7 +7214,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.438Z",
                 "updated_at": "2019-01-17T21:46:22.438Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -7228,7 +7228,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:22.437Z",
                 "updated_at": "2019-01-17T21:46:22.437Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -7242,7 +7242,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:22.435Z",
                 "updated_at": "2019-01-17T21:46:22.435Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -7256,7 +7256,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.433Z",
                 "updated_at": "2019-01-17T21:46:22.433Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7270,7 +7270,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.432Z",
                 "updated_at": "2019-01-17T21:46:22.432Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -7284,7 +7284,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.430Z",
                 "updated_at": "2019-01-17T21:46:22.430Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -7298,7 +7298,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:22.429Z",
                 "updated_at": "2019-01-17T21:46:22.429Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -7312,7 +7312,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.427Z",
                 "updated_at": "2019-01-17T21:46:22.427Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7345,7 +7345,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.313Z",
                 "updated_at": "2019-01-17T21:46:20.313Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -7359,7 +7359,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.311Z",
                 "updated_at": "2019-01-17T21:46:20.311Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -7373,7 +7373,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.309Z",
                 "updated_at": "2019-01-17T21:46:20.309Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -7387,7 +7387,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.305Z",
                 "updated_at": "2019-01-17T21:46:20.305Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -7401,7 +7401,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.303Z",
                 "updated_at": "2019-01-17T21:46:20.303Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -7415,7 +7415,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.301Z",
                 "updated_at": "2019-01-17T21:46:20.301Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -7429,7 +7429,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.299Z",
                 "updated_at": "2019-01-17T21:46:20.299Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -7443,7 +7443,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.298Z",
                 "updated_at": "2019-01-17T21:46:20.298Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -7457,7 +7457,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.296Z",
                 "updated_at": "2019-01-17T21:46:20.296Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -7490,7 +7490,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.460Z",
                 "updated_at": "2019-01-17T21:46:21.460Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -7504,7 +7504,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:21.458Z",
                 "updated_at": "2019-01-17T21:46:21.458Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -7518,7 +7518,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.457Z",
                 "updated_at": "2019-01-17T21:46:21.457Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7532,7 +7532,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.455Z",
                 "updated_at": "2019-01-17T21:46:21.455Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -7546,7 +7546,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.453Z",
                 "updated_at": "2019-01-17T21:46:21.453Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7560,7 +7560,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.451Z",
                 "updated_at": "2019-01-17T21:46:21.451Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -7593,7 +7593,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.783Z",
                 "updated_at": "2019-01-17T21:46:19.783Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7607,7 +7607,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.782Z",
                 "updated_at": "2019-01-17T21:46:19.782Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -7621,7 +7621,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.779Z",
                 "updated_at": "2019-01-17T21:46:19.779Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -7635,7 +7635,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.778Z",
                 "updated_at": "2019-01-17T21:46:19.778Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -7649,7 +7649,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:19.776Z",
                 "updated_at": "2019-01-17T21:46:19.776Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -7682,7 +7682,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.720Z",
                 "updated_at": "2019-01-17T21:46:17.720Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -7696,7 +7696,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.718Z",
                 "updated_at": "2019-01-17T21:46:17.718Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7729,7 +7729,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.847Z",
                 "updated_at": "2019-01-17T21:46:22.847Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7743,7 +7743,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:22.845Z",
                 "updated_at": "2019-01-17T21:46:22.845Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -7757,7 +7757,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.843Z",
                 "updated_at": "2019-01-17T21:46:22.843Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -7808,7 +7808,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.067Z",
                 "updated_at": "2019-01-17T21:46:16.067Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -7822,7 +7822,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.065Z",
                 "updated_at": "2019-01-17T21:46:16.065Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -7836,7 +7836,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:16.064Z",
                 "updated_at": "2019-01-17T21:46:16.064Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -7850,7 +7850,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:16.062Z",
                 "updated_at": "2019-01-17T21:46:16.062Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -7864,7 +7864,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.061Z",
                 "updated_at": "2019-01-17T21:46:16.061Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -7878,7 +7878,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.059Z",
                 "updated_at": "2019-01-17T21:46:16.059Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -7892,7 +7892,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.057Z",
                 "updated_at": "2019-01-17T21:46:16.057Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -7925,7 +7925,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.099Z",
                 "updated_at": "2019-01-17T21:46:22.099Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -7939,7 +7939,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:22.097Z",
                 "updated_at": "2019-01-17T21:46:22.097Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -7953,7 +7953,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.095Z",
                 "updated_at": "2019-01-17T21:46:22.095Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -7967,7 +7967,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.094Z",
                 "updated_at": "2019-01-17T21:46:22.094Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -7981,7 +7981,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.092Z",
                 "updated_at": "2019-01-17T21:46:22.092Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -7995,7 +7995,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.091Z",
                 "updated_at": "2019-01-17T21:46:22.091Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -8009,7 +8009,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.089Z",
                 "updated_at": "2019-01-17T21:46:22.089Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -8023,7 +8023,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.087Z",
                 "updated_at": "2019-01-17T21:46:22.087Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -8037,7 +8037,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.086Z",
                 "updated_at": "2019-01-17T21:46:22.086Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -8051,7 +8051,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.082Z",
                 "updated_at": "2019-01-17T21:46:22.082Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -8065,7 +8065,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:22.081Z",
                 "updated_at": "2019-01-17T21:46:22.081Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -8079,7 +8079,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.079Z",
                 "updated_at": "2019-01-17T21:46:22.079Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -8112,7 +8112,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:19.861Z",
                 "updated_at": "2019-01-17T21:46:19.861Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -8126,7 +8126,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.859Z",
                 "updated_at": "2019-01-17T21:46:19.859Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -8140,7 +8140,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.857Z",
                 "updated_at": "2019-01-17T21:46:19.857Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -8154,7 +8154,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.855Z",
                 "updated_at": "2019-01-17T21:46:19.855Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -8187,7 +8187,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.396Z",
                 "updated_at": "2019-01-17T21:46:17.396Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -8201,7 +8201,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.394Z",
                 "updated_at": "2019-01-17T21:46:17.394Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -8215,7 +8215,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.393Z",
                 "updated_at": "2019-01-17T21:46:17.393Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -8248,7 +8248,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.480Z",
                 "updated_at": "2019-01-17T21:46:21.480Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -8281,7 +8281,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:19.595Z",
                 "updated_at": "2019-01-17T21:46:19.595Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -8295,7 +8295,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:19.593Z",
                 "updated_at": "2019-01-17T21:46:19.593Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -8309,7 +8309,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.592Z",
                 "updated_at": "2019-01-17T21:46:19.592Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -8323,7 +8323,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.590Z",
                 "updated_at": "2019-01-17T21:46:19.590Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -8337,7 +8337,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:19.589Z",
                 "updated_at": "2019-01-17T21:46:19.589Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -8351,7 +8351,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:19.587Z",
                 "updated_at": "2019-01-17T21:46:19.587Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -8365,7 +8365,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:19.586Z",
                 "updated_at": "2019-01-17T21:46:19.586Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -8379,7 +8379,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.584Z",
                 "updated_at": "2019-01-17T21:46:19.584Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -8393,7 +8393,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.582Z",
                 "updated_at": "2019-01-17T21:46:19.582Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -8407,7 +8407,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:19.581Z",
                 "updated_at": "2019-01-17T21:46:19.581Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -8421,7 +8421,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.579Z",
                 "updated_at": "2019-01-17T21:46:19.579Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -8435,7 +8435,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.577Z",
                 "updated_at": "2019-01-17T21:46:19.577Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -8449,7 +8449,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.576Z",
                 "updated_at": "2019-01-17T21:46:19.576Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -8482,7 +8482,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.208Z",
                 "updated_at": "2019-01-17T21:46:16.208Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -8496,7 +8496,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:16.187Z",
                 "updated_at": "2019-01-17T21:46:16.187Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -8510,7 +8510,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:16.185Z",
                 "updated_at": "2019-01-17T21:46:16.185Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -8524,7 +8524,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.183Z",
                 "updated_at": "2019-01-17T21:46:16.183Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -8538,7 +8538,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:16.181Z",
                 "updated_at": "2019-01-17T21:46:16.181Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -8552,7 +8552,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.179Z",
                 "updated_at": "2019-01-17T21:46:16.179Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -8566,7 +8566,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.178Z",
                 "updated_at": "2019-01-17T21:46:16.178Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -8580,7 +8580,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.176Z",
                 "updated_at": "2019-01-17T21:46:16.176Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -8594,7 +8594,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.174Z",
                 "updated_at": "2019-01-17T21:46:16.174Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -8608,7 +8608,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.173Z",
                 "updated_at": "2019-01-17T21:46:16.173Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -8622,7 +8622,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:16.171Z",
                 "updated_at": "2019-01-17T21:46:16.171Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -8636,7 +8636,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:16.169Z",
                 "updated_at": "2019-01-17T21:46:16.169Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -8669,7 +8669,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.285Z",
                 "updated_at": "2019-01-17T21:46:18.285Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -8683,7 +8683,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.283Z",
                 "updated_at": "2019-01-17T21:46:18.283Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -8697,7 +8697,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.281Z",
                 "updated_at": "2019-01-17T21:46:18.281Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -8711,7 +8711,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.280Z",
                 "updated_at": "2019-01-17T21:46:18.280Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -8725,7 +8725,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:18.278Z",
                 "updated_at": "2019-01-17T21:46:18.278Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -8758,7 +8758,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.762Z",
                 "updated_at": "2019-01-17T21:46:17.762Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -8772,7 +8772,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.760Z",
                 "updated_at": "2019-01-17T21:46:17.760Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -8786,7 +8786,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:17.759Z",
                 "updated_at": "2019-01-17T21:46:17.759Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -8800,7 +8800,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.757Z",
                 "updated_at": "2019-01-17T21:46:17.757Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -8814,7 +8814,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.756Z",
                 "updated_at": "2019-01-17T21:46:17.756Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -8828,7 +8828,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.754Z",
                 "updated_at": "2019-01-17T21:46:17.754Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -8842,7 +8842,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.752Z",
                 "updated_at": "2019-01-17T21:46:17.752Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -8856,7 +8856,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.751Z",
                 "updated_at": "2019-01-17T21:46:17.751Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -8870,7 +8870,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.749Z",
                 "updated_at": "2019-01-17T21:46:17.749Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -8884,7 +8884,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.745Z",
                 "updated_at": "2019-01-17T21:46:17.745Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -8898,7 +8898,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.743Z",
                 "updated_at": "2019-01-17T21:46:17.743Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -8912,7 +8912,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.741Z",
                 "updated_at": "2019-01-17T21:46:17.741Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -8926,7 +8926,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.740Z",
                 "updated_at": "2019-01-17T21:46:17.740Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -8940,7 +8940,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.738Z",
                 "updated_at": "2019-01-17T21:46:17.738Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -8973,7 +8973,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.072Z",
                 "updated_at": "2019-01-17T21:46:19.072Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -8987,7 +8987,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.071Z",
                 "updated_at": "2019-01-17T21:46:19.071Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -9001,7 +9001,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.069Z",
                 "updated_at": "2019-01-17T21:46:19.069Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -9015,7 +9015,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.067Z",
                 "updated_at": "2019-01-17T21:46:19.067Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9029,7 +9029,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.066Z",
                 "updated_at": "2019-01-17T21:46:19.066Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -9043,7 +9043,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.064Z",
                 "updated_at": "2019-01-17T21:46:19.064Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -9057,7 +9057,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.062Z",
                 "updated_at": "2019-01-17T21:46:19.062Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -9071,7 +9071,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.060Z",
                 "updated_at": "2019-01-17T21:46:19.060Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -9085,7 +9085,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.058Z",
                 "updated_at": "2019-01-17T21:46:19.058Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -9099,7 +9099,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.056Z",
                 "updated_at": "2019-01-17T21:46:19.056Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -9113,7 +9113,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.055Z",
                 "updated_at": "2019-01-17T21:46:19.055Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -9127,7 +9127,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.053Z",
                 "updated_at": "2019-01-17T21:46:19.053Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -9141,7 +9141,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.051Z",
                 "updated_at": "2019-01-17T21:46:19.051Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -9192,7 +9192,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.226Z",
                 "updated_at": "2019-01-17T21:46:21.226Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -9206,7 +9206,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.224Z",
                 "updated_at": "2019-01-17T21:46:21.224Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -9220,7 +9220,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:21.222Z",
                 "updated_at": "2019-01-17T21:46:21.222Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -9234,7 +9234,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.221Z",
                 "updated_at": "2019-01-17T21:46:21.221Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -9248,7 +9248,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.219Z",
                 "updated_at": "2019-01-17T21:46:21.219Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -9281,7 +9281,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.286Z",
                 "updated_at": "2019-01-17T21:46:22.286Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9295,7 +9295,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:22.284Z",
                 "updated_at": "2019-01-17T21:46:22.284Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -9309,7 +9309,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.282Z",
                 "updated_at": "2019-01-17T21:46:22.282Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -9323,7 +9323,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.281Z",
                 "updated_at": "2019-01-17T21:46:22.281Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -9337,7 +9337,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.279Z",
                 "updated_at": "2019-01-17T21:46:22.279Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -9351,7 +9351,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.278Z",
                 "updated_at": "2019-01-17T21:46:22.278Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -9365,7 +9365,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:22.276Z",
                 "updated_at": "2019-01-17T21:46:22.276Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -9379,7 +9379,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.275Z",
                 "updated_at": "2019-01-17T21:46:22.275Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -9393,7 +9393,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.273Z",
                 "updated_at": "2019-01-17T21:46:22.273Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -9407,7 +9407,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:22.271Z",
                 "updated_at": "2019-01-17T21:46:22.271Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -9421,7 +9421,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.270Z",
                 "updated_at": "2019-01-17T21:46:22.270Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9435,7 +9435,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:22.268Z",
                 "updated_at": "2019-01-17T21:46:22.268Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -9449,7 +9449,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.267Z",
                 "updated_at": "2019-01-17T21:46:22.267Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9482,7 +9482,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.220Z",
                 "updated_at": "2019-01-17T21:46:19.220Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -9496,7 +9496,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.218Z",
                 "updated_at": "2019-01-17T21:46:19.218Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -9510,7 +9510,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.215Z",
                 "updated_at": "2019-01-17T21:46:19.215Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -9524,7 +9524,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:19.213Z",
                 "updated_at": "2019-01-17T21:46:19.213Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -9538,7 +9538,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.211Z",
                 "updated_at": "2019-01-17T21:46:19.211Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -9552,7 +9552,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.209Z",
                 "updated_at": "2019-01-17T21:46:19.209Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -9566,7 +9566,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.207Z",
                 "updated_at": "2019-01-17T21:46:19.207Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -9580,7 +9580,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.203Z",
                 "updated_at": "2019-01-17T21:46:19.203Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -9594,7 +9594,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.161Z",
                 "updated_at": "2019-01-17T21:46:19.161Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -9608,7 +9608,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.159Z",
                 "updated_at": "2019-01-17T21:46:19.159Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9622,7 +9622,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:19.158Z",
                 "updated_at": "2019-01-17T21:46:19.158Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -9636,7 +9636,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.156Z",
                 "updated_at": "2019-01-17T21:46:19.156Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -9687,7 +9687,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:20.859Z",
                 "updated_at": "2019-01-17T21:46:20.859Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -9701,7 +9701,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.857Z",
                 "updated_at": "2019-01-17T21:46:20.857Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9715,7 +9715,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:20.856Z",
                 "updated_at": "2019-01-17T21:46:20.856Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -9729,7 +9729,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.854Z",
                 "updated_at": "2019-01-17T21:46:20.854Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -9743,7 +9743,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:20.853Z",
                 "updated_at": "2019-01-17T21:46:20.853Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -9757,7 +9757,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:20.851Z",
                 "updated_at": "2019-01-17T21:46:20.851Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -9771,7 +9771,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.850Z",
                 "updated_at": "2019-01-17T21:46:20.850Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -9785,7 +9785,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.848Z",
                 "updated_at": "2019-01-17T21:46:20.848Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9799,7 +9799,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.847Z",
                 "updated_at": "2019-01-17T21:46:20.847Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -9813,7 +9813,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.845Z",
                 "updated_at": "2019-01-17T21:46:20.845Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -9827,7 +9827,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.843Z",
                 "updated_at": "2019-01-17T21:46:20.843Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -9841,7 +9841,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.842Z",
                 "updated_at": "2019-01-17T21:46:20.842Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -9855,7 +9855,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.840Z",
                 "updated_at": "2019-01-17T21:46:20.840Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -9869,7 +9869,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.838Z",
                 "updated_at": "2019-01-17T21:46:20.838Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -9902,7 +9902,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:15.920Z",
                 "updated_at": "2019-01-17T21:46:15.920Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9916,7 +9916,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:15.919Z",
                 "updated_at": "2019-01-17T21:46:15.919Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -9930,7 +9930,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:15.917Z",
                 "updated_at": "2019-01-17T21:46:15.917Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -9944,7 +9944,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:15.916Z",
                 "updated_at": "2019-01-17T21:46:15.916Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -9958,7 +9958,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:15.914Z",
                 "updated_at": "2019-01-17T21:46:15.914Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -9991,7 +9991,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.655Z",
                 "updated_at": "2019-01-17T21:46:16.655Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -10005,7 +10005,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.653Z",
                 "updated_at": "2019-01-17T21:46:16.653Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -10019,7 +10019,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:16.651Z",
                 "updated_at": "2019-01-17T21:46:16.651Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -10033,7 +10033,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:16.650Z",
                 "updated_at": "2019-01-17T21:46:16.650Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -10047,7 +10047,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.648Z",
                 "updated_at": "2019-01-17T21:46:16.648Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -10061,7 +10061,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.647Z",
                 "updated_at": "2019-01-17T21:46:16.647Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -10075,7 +10075,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:16.645Z",
                 "updated_at": "2019-01-17T21:46:16.645Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -10108,7 +10108,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.273Z",
                 "updated_at": "2019-01-17T21:46:20.273Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -10122,7 +10122,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.272Z",
                 "updated_at": "2019-01-17T21:46:20.272Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -10136,7 +10136,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.270Z",
                 "updated_at": "2019-01-17T21:46:20.270Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -10150,7 +10150,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.269Z",
                 "updated_at": "2019-01-17T21:46:20.269Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -10164,7 +10164,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.267Z",
                 "updated_at": "2019-01-17T21:46:20.267Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -10178,7 +10178,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.266Z",
                 "updated_at": "2019-01-17T21:46:20.266Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -10192,7 +10192,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.264Z",
                 "updated_at": "2019-01-17T21:46:20.264Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -10206,7 +10206,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.263Z",
                 "updated_at": "2019-01-17T21:46:20.263Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -10220,7 +10220,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.261Z",
                 "updated_at": "2019-01-17T21:46:20.261Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -10234,7 +10234,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.260Z",
                 "updated_at": "2019-01-17T21:46:20.260Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -10248,7 +10248,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:20.258Z",
                 "updated_at": "2019-01-17T21:46:20.258Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -10262,7 +10262,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.256Z",
                 "updated_at": "2019-01-17T21:46:20.256Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -10295,7 +10295,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.891Z",
                 "updated_at": "2019-01-17T21:46:20.891Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -10309,7 +10309,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.889Z",
                 "updated_at": "2019-01-17T21:46:20.889Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -10323,7 +10323,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.887Z",
                 "updated_at": "2019-01-17T21:46:20.887Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -10337,7 +10337,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.886Z",
                 "updated_at": "2019-01-17T21:46:20.886Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -10351,7 +10351,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.884Z",
                 "updated_at": "2019-01-17T21:46:20.884Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -10365,7 +10365,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.882Z",
                 "updated_at": "2019-01-17T21:46:20.882Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -10379,7 +10379,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:20.880Z",
                 "updated_at": "2019-01-17T21:46:20.880Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -10393,7 +10393,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.879Z",
                 "updated_at": "2019-01-17T21:46:20.879Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -10407,7 +10407,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.877Z",
                 "updated_at": "2019-01-17T21:46:20.877Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -10421,7 +10421,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.875Z",
                 "updated_at": "2019-01-17T21:46:20.875Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -10435,7 +10435,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.873Z",
                 "updated_at": "2019-01-17T21:46:20.873Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -10486,7 +10486,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:21.559Z",
                 "updated_at": "2019-01-17T21:46:21.559Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -10500,7 +10500,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:21.558Z",
                 "updated_at": "2019-01-17T21:46:21.558Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -10514,7 +10514,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:21.556Z",
                 "updated_at": "2019-01-17T21:46:21.556Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -10528,7 +10528,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.554Z",
                 "updated_at": "2019-01-17T21:46:21.554Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -10542,7 +10542,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:21.552Z",
                 "updated_at": "2019-01-17T21:46:21.552Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -10556,7 +10556,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.551Z",
                 "updated_at": "2019-01-17T21:46:21.551Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -10589,7 +10589,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.912Z",
                 "updated_at": "2019-01-17T21:46:18.912Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -10622,7 +10622,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.412Z",
                 "updated_at": "2019-01-17T21:46:19.412Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -10636,7 +10636,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.410Z",
                 "updated_at": "2019-01-17T21:46:19.410Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -10650,7 +10650,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.409Z",
                 "updated_at": "2019-01-17T21:46:19.409Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -10664,7 +10664,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.408Z",
                 "updated_at": "2019-01-17T21:46:19.408Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -10678,7 +10678,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:19.406Z",
                 "updated_at": "2019-01-17T21:46:19.406Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -10692,7 +10692,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.405Z",
                 "updated_at": "2019-01-17T21:46:19.405Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -10706,7 +10706,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.404Z",
                 "updated_at": "2019-01-17T21:46:19.404Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -10720,7 +10720,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.402Z",
                 "updated_at": "2019-01-17T21:46:19.402Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -10734,7 +10734,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.401Z",
                 "updated_at": "2019-01-17T21:46:19.401Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -10748,7 +10748,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:19.400Z",
                 "updated_at": "2019-01-17T21:46:19.400Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -10762,7 +10762,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.399Z",
                 "updated_at": "2019-01-17T21:46:19.399Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -10776,7 +10776,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.397Z",
                 "updated_at": "2019-01-17T21:46:19.397Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -10790,7 +10790,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.396Z",
                 "updated_at": "2019-01-17T21:46:19.396Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -10823,7 +10823,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.416Z",
                 "updated_at": "2019-01-17T21:46:16.416Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -10837,7 +10837,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.414Z",
                 "updated_at": "2019-01-17T21:46:16.414Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -10851,7 +10851,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.412Z",
                 "updated_at": "2019-01-17T21:46:16.412Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -10865,7 +10865,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:16.411Z",
                 "updated_at": "2019-01-17T21:46:16.411Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -10879,7 +10879,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:16.409Z",
                 "updated_at": "2019-01-17T21:46:16.409Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -10893,7 +10893,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.408Z",
                 "updated_at": "2019-01-17T21:46:16.408Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -10907,7 +10907,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.406Z",
                 "updated_at": "2019-01-17T21:46:16.406Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -10921,7 +10921,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.404Z",
                 "updated_at": "2019-01-17T21:46:16.404Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -10954,7 +10954,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.373Z",
                 "updated_at": "2019-01-17T21:46:17.373Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -10968,7 +10968,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:17.370Z",
                 "updated_at": "2019-01-17T21:46:17.370Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -10982,7 +10982,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.368Z",
                 "updated_at": "2019-01-17T21:46:17.368Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -10996,7 +10996,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.366Z",
                 "updated_at": "2019-01-17T21:46:17.366Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -11010,7 +11010,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.364Z",
                 "updated_at": "2019-01-17T21:46:17.364Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -11024,7 +11024,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.363Z",
                 "updated_at": "2019-01-17T21:46:17.363Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -11038,7 +11038,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.361Z",
                 "updated_at": "2019-01-17T21:46:17.361Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -11052,7 +11052,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.359Z",
                 "updated_at": "2019-01-17T21:46:17.359Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -11066,7 +11066,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.358Z",
                 "updated_at": "2019-01-17T21:46:17.358Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -11099,7 +11099,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.514Z",
                 "updated_at": "2019-01-17T21:46:20.514Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -11113,7 +11113,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.513Z",
                 "updated_at": "2019-01-17T21:46:20.513Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -11127,7 +11127,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:20.511Z",
                 "updated_at": "2019-01-17T21:46:20.511Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11141,7 +11141,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.509Z",
                 "updated_at": "2019-01-17T21:46:20.509Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -11155,7 +11155,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.508Z",
                 "updated_at": "2019-01-17T21:46:20.508Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -11169,7 +11169,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:20.506Z",
                 "updated_at": "2019-01-17T21:46:20.506Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11183,7 +11183,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:20.504Z",
                 "updated_at": "2019-01-17T21:46:20.504Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -11216,7 +11216,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.758Z",
                 "updated_at": "2019-01-17T21:46:18.758Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11230,7 +11230,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:18.756Z",
                 "updated_at": "2019-01-17T21:46:18.756Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -11244,7 +11244,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:18.754Z",
                 "updated_at": "2019-01-17T21:46:18.754Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -11258,7 +11258,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.752Z",
                 "updated_at": "2019-01-17T21:46:18.752Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -11272,7 +11272,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.751Z",
                 "updated_at": "2019-01-17T21:46:18.751Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -11305,7 +11305,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.122Z",
                 "updated_at": "2019-01-17T21:46:18.122Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -11319,7 +11319,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.121Z",
                 "updated_at": "2019-01-17T21:46:18.121Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -11333,7 +11333,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.119Z",
                 "updated_at": "2019-01-17T21:46:18.119Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11347,7 +11347,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.118Z",
                 "updated_at": "2019-01-17T21:46:18.118Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -11361,7 +11361,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.116Z",
                 "updated_at": "2019-01-17T21:46:18.116Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -11375,7 +11375,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.115Z",
                 "updated_at": "2019-01-17T21:46:18.115Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -11389,7 +11389,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.113Z",
                 "updated_at": "2019-01-17T21:46:18.113Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -11403,7 +11403,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.112Z",
                 "updated_at": "2019-01-17T21:46:18.112Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -11417,7 +11417,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.110Z",
                 "updated_at": "2019-01-17T21:46:18.110Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11450,7 +11450,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.334Z",
                 "updated_at": "2019-01-17T21:46:17.334Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -11483,7 +11483,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:19.381Z",
                 "updated_at": "2019-01-17T21:46:19.381Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -11497,7 +11497,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.380Z",
                 "updated_at": "2019-01-17T21:46:19.380Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -11511,7 +11511,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.378Z",
                 "updated_at": "2019-01-17T21:46:19.378Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11525,7 +11525,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.376Z",
                 "updated_at": "2019-01-17T21:46:19.376Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -11539,7 +11539,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.375Z",
                 "updated_at": "2019-01-17T21:46:19.375Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -11553,7 +11553,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.373Z",
                 "updated_at": "2019-01-17T21:46:19.373Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11567,7 +11567,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.371Z",
                 "updated_at": "2019-01-17T21:46:19.371Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -11600,7 +11600,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.307Z",
                 "updated_at": "2019-01-17T21:46:16.307Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -11614,7 +11614,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:16.305Z",
                 "updated_at": "2019-01-17T21:46:16.305Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -11628,7 +11628,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:16.304Z",
                 "updated_at": "2019-01-17T21:46:16.304Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -11642,7 +11642,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.302Z",
                 "updated_at": "2019-01-17T21:46:16.302Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -11656,7 +11656,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.300Z",
                 "updated_at": "2019-01-17T21:46:16.300Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -11670,7 +11670,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.296Z",
                 "updated_at": "2019-01-17T21:46:16.296Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11684,7 +11684,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:16.294Z",
                 "updated_at": "2019-01-17T21:46:16.294Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -11698,7 +11698,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.293Z",
                 "updated_at": "2019-01-17T21:46:16.293Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -11712,7 +11712,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.291Z",
                 "updated_at": "2019-01-17T21:46:16.291Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -11726,7 +11726,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.289Z",
                 "updated_at": "2019-01-17T21:46:16.289Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -11740,7 +11740,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:16.287Z",
                 "updated_at": "2019-01-17T21:46:16.287Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -11754,7 +11754,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:16.286Z",
                 "updated_at": "2019-01-17T21:46:16.286Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -11768,7 +11768,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:16.284Z",
                 "updated_at": "2019-01-17T21:46:16.284Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -11801,7 +11801,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:15.765Z",
                 "updated_at": "2019-01-17T21:46:15.765Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -11815,7 +11815,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:15.763Z",
                 "updated_at": "2019-01-17T21:46:15.763Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -11829,7 +11829,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:15.761Z",
                 "updated_at": "2019-01-17T21:46:15.761Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -11843,7 +11843,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:15.760Z",
                 "updated_at": "2019-01-17T21:46:15.760Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -11857,7 +11857,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:15.758Z",
                 "updated_at": "2019-01-17T21:46:15.758Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -11871,7 +11871,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:15.756Z",
                 "updated_at": "2019-01-17T21:46:15.756Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -11885,7 +11885,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:15.754Z",
                 "updated_at": "2019-01-17T21:46:15.754Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -11936,7 +11936,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.383Z",
                 "updated_at": "2019-01-17T21:46:16.383Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -11950,7 +11950,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.381Z",
                 "updated_at": "2019-01-17T21:46:16.381Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -11964,7 +11964,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.379Z",
                 "updated_at": "2019-01-17T21:46:16.379Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -11978,7 +11978,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.376Z",
                 "updated_at": "2019-01-17T21:46:16.376Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -11992,7 +11992,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:16.375Z",
                 "updated_at": "2019-01-17T21:46:16.375Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12006,7 +12006,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.373Z",
                 "updated_at": "2019-01-17T21:46:16.373Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -12020,7 +12020,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.371Z",
                 "updated_at": "2019-01-17T21:46:16.371Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12034,7 +12034,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.370Z",
                 "updated_at": "2019-01-17T21:46:16.370Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -12048,7 +12048,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.368Z",
                 "updated_at": "2019-01-17T21:46:16.368Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12062,7 +12062,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:16.367Z",
                 "updated_at": "2019-01-17T21:46:16.367Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -12076,7 +12076,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:16.365Z",
                 "updated_at": "2019-01-17T21:46:16.365Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -12109,7 +12109,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:19.449Z",
                 "updated_at": "2019-01-17T21:46:19.449Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12142,7 +12142,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.121Z",
                 "updated_at": "2019-01-17T21:46:19.121Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12156,7 +12156,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.120Z",
                 "updated_at": "2019-01-17T21:46:19.120Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -12170,7 +12170,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.118Z",
                 "updated_at": "2019-01-17T21:46:19.118Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -12184,7 +12184,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.116Z",
                 "updated_at": "2019-01-17T21:46:19.116Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12198,7 +12198,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:19.115Z",
                 "updated_at": "2019-01-17T21:46:19.115Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -12212,7 +12212,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.114Z",
                 "updated_at": "2019-01-17T21:46:19.114Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -12226,7 +12226,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.112Z",
                 "updated_at": "2019-01-17T21:46:19.112Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -12240,7 +12240,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.111Z",
                 "updated_at": "2019-01-17T21:46:19.111Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -12254,7 +12254,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.109Z",
                 "updated_at": "2019-01-17T21:46:19.109Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -12268,7 +12268,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.108Z",
                 "updated_at": "2019-01-17T21:46:19.108Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -12282,7 +12282,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:19.106Z",
                 "updated_at": "2019-01-17T21:46:19.106Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -12296,7 +12296,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.105Z",
                 "updated_at": "2019-01-17T21:46:19.105Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -12310,7 +12310,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:19.103Z",
                 "updated_at": "2019-01-17T21:46:19.103Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12324,7 +12324,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.101Z",
                 "updated_at": "2019-01-17T21:46:19.101Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -12357,7 +12357,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.695Z",
                 "updated_at": "2019-01-17T21:46:17.695Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -12371,7 +12371,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.694Z",
                 "updated_at": "2019-01-17T21:46:17.694Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -12385,7 +12385,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.692Z",
                 "updated_at": "2019-01-17T21:46:17.692Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -12399,7 +12399,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:17.691Z",
                 "updated_at": "2019-01-17T21:46:17.691Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -12413,7 +12413,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.689Z",
                 "updated_at": "2019-01-17T21:46:17.689Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12446,7 +12446,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.234Z",
                 "updated_at": "2019-01-17T21:46:20.234Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12460,7 +12460,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.232Z",
                 "updated_at": "2019-01-17T21:46:20.232Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -12474,7 +12474,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:20.231Z",
                 "updated_at": "2019-01-17T21:46:20.231Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -12488,7 +12488,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:20.229Z",
                 "updated_at": "2019-01-17T21:46:20.229Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -12502,7 +12502,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.228Z",
                 "updated_at": "2019-01-17T21:46:20.228Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12516,7 +12516,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.225Z",
                 "updated_at": "2019-01-17T21:46:20.225Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -12530,7 +12530,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.223Z",
                 "updated_at": "2019-01-17T21:46:20.223Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -12544,7 +12544,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.221Z",
                 "updated_at": "2019-01-17T21:46:20.221Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -12558,7 +12558,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.220Z",
                 "updated_at": "2019-01-17T21:46:20.220Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12591,7 +12591,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.891Z",
                 "updated_at": "2019-01-17T21:46:21.891Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -12605,7 +12605,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:21.890Z",
                 "updated_at": "2019-01-17T21:46:21.890Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12619,7 +12619,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:21.888Z",
                 "updated_at": "2019-01-17T21:46:21.888Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -12633,7 +12633,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.886Z",
                 "updated_at": "2019-01-17T21:46:21.886Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -12647,7 +12647,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:21.885Z",
                 "updated_at": "2019-01-17T21:46:21.885Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12661,7 +12661,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.883Z",
                 "updated_at": "2019-01-17T21:46:21.883Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -12694,7 +12694,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:15.800Z",
                 "updated_at": "2019-01-17T21:46:15.800Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -12708,7 +12708,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:15.798Z",
                 "updated_at": "2019-01-17T21:46:15.798Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -12722,7 +12722,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:15.797Z",
                 "updated_at": "2019-01-17T21:46:15.797Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -12736,7 +12736,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:15.795Z",
                 "updated_at": "2019-01-17T21:46:15.795Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12750,7 +12750,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:15.793Z",
                 "updated_at": "2019-01-17T21:46:15.793Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -12764,7 +12764,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:15.791Z",
                 "updated_at": "2019-01-17T21:46:15.791Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -12778,7 +12778,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:15.790Z",
                 "updated_at": "2019-01-17T21:46:15.790Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -12792,7 +12792,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:15.788Z",
                 "updated_at": "2019-01-17T21:46:15.788Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -12825,7 +12825,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.479Z",
                 "updated_at": "2019-01-17T21:46:20.479Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -12839,7 +12839,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.477Z",
                 "updated_at": "2019-01-17T21:46:20.477Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12853,7 +12853,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.475Z",
                 "updated_at": "2019-01-17T21:46:20.475Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -12867,7 +12867,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.474Z",
                 "updated_at": "2019-01-17T21:46:20.474Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -12881,7 +12881,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.472Z",
                 "updated_at": "2019-01-17T21:46:20.472Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -12895,7 +12895,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.471Z",
                 "updated_at": "2019-01-17T21:46:20.471Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12909,7 +12909,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.469Z",
                 "updated_at": "2019-01-17T21:46:20.469Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -12942,7 +12942,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:21.816Z",
                 "updated_at": "2019-01-17T21:46:21.816Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -12956,7 +12956,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.814Z",
                 "updated_at": "2019-01-17T21:46:21.814Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -12970,7 +12970,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.812Z",
                 "updated_at": "2019-01-17T21:46:21.812Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -12984,7 +12984,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.810Z",
                 "updated_at": "2019-01-17T21:46:21.810Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -12998,7 +12998,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:21.809Z",
                 "updated_at": "2019-01-17T21:46:21.809Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -13012,7 +13012,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.807Z",
                 "updated_at": "2019-01-17T21:46:21.807Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -13026,7 +13026,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.805Z",
                 "updated_at": "2019-01-17T21:46:21.805Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -13040,7 +13040,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:21.803Z",
                 "updated_at": "2019-01-17T21:46:21.803Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -13054,7 +13054,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.801Z",
                 "updated_at": "2019-01-17T21:46:21.801Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13068,7 +13068,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.799Z",
                 "updated_at": "2019-01-17T21:46:21.799Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13082,7 +13082,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:21.797Z",
                 "updated_at": "2019-01-17T21:46:21.797Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -13096,7 +13096,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:21.796Z",
                 "updated_at": "2019-01-17T21:46:21.796Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13129,7 +13129,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.644Z",
                 "updated_at": "2019-01-17T21:46:17.644Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -13162,7 +13162,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.922Z",
                 "updated_at": "2019-01-17T21:46:17.922Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -13176,7 +13176,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.920Z",
                 "updated_at": "2019-01-17T21:46:17.920Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -13190,7 +13190,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.918Z",
                 "updated_at": "2019-01-17T21:46:17.918Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -13204,7 +13204,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.916Z",
                 "updated_at": "2019-01-17T21:46:17.916Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -13218,7 +13218,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.914Z",
                 "updated_at": "2019-01-17T21:46:17.914Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -13232,7 +13232,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.913Z",
                 "updated_at": "2019-01-17T21:46:17.913Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -13265,7 +13265,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.934Z",
                 "updated_at": "2019-01-17T21:46:16.934Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -13279,7 +13279,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:16.933Z",
                 "updated_at": "2019-01-17T21:46:16.933Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -13293,7 +13293,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:16.931Z",
                 "updated_at": "2019-01-17T21:46:16.931Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -13307,7 +13307,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.929Z",
                 "updated_at": "2019-01-17T21:46:16.929Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -13321,7 +13321,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.927Z",
                 "updated_at": "2019-01-17T21:46:16.927Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -13335,7 +13335,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.925Z",
                 "updated_at": "2019-01-17T21:46:16.925Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -13349,7 +13349,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.922Z",
                 "updated_at": "2019-01-17T21:46:16.922Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -13363,7 +13363,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.920Z",
                 "updated_at": "2019-01-17T21:46:16.920Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -13377,7 +13377,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.918Z",
                 "updated_at": "2019-01-17T21:46:16.918Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -13391,7 +13391,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.917Z",
                 "updated_at": "2019-01-17T21:46:16.917Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -13405,7 +13405,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.914Z",
                 "updated_at": "2019-01-17T21:46:16.914Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -13419,7 +13419,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.912Z",
                 "updated_at": "2019-01-17T21:46:16.912Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -13433,7 +13433,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.911Z",
                 "updated_at": "2019-01-17T21:46:16.911Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -13466,7 +13466,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.169Z",
                 "updated_at": "2019-01-17T21:46:17.169Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -13480,7 +13480,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.167Z",
                 "updated_at": "2019-01-17T21:46:17.167Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -13494,7 +13494,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:17.165Z",
                 "updated_at": "2019-01-17T21:46:17.165Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -13508,7 +13508,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.162Z",
                 "updated_at": "2019-01-17T21:46:17.162Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -13522,7 +13522,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:17.160Z",
                 "updated_at": "2019-01-17T21:46:17.160Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13536,7 +13536,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.158Z",
                 "updated_at": "2019-01-17T21:46:17.158Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -13550,7 +13550,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.156Z",
                 "updated_at": "2019-01-17T21:46:17.156Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -13564,7 +13564,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.154Z",
                 "updated_at": "2019-01-17T21:46:17.154Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -13597,7 +13597,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.818Z",
                 "updated_at": "2019-01-17T21:46:17.818Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -13611,7 +13611,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.817Z",
                 "updated_at": "2019-01-17T21:46:17.817Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13625,7 +13625,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.815Z",
                 "updated_at": "2019-01-17T21:46:17.815Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13639,7 +13639,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.814Z",
                 "updated_at": "2019-01-17T21:46:17.814Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -13653,7 +13653,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.812Z",
                 "updated_at": "2019-01-17T21:46:17.812Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -13667,7 +13667,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.810Z",
                 "updated_at": "2019-01-17T21:46:17.810Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -13681,7 +13681,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.809Z",
                 "updated_at": "2019-01-17T21:46:17.809Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -13695,7 +13695,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.807Z",
                 "updated_at": "2019-01-17T21:46:17.807Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -13709,7 +13709,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.806Z",
                 "updated_at": "2019-01-17T21:46:17.806Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -13723,7 +13723,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.804Z",
                 "updated_at": "2019-01-17T21:46:17.804Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -13756,7 +13756,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:20.582Z",
                 "updated_at": "2019-01-17T21:46:20.582Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -13770,7 +13770,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.580Z",
                 "updated_at": "2019-01-17T21:46:20.580Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -13803,7 +13803,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.153Z",
                 "updated_at": "2019-01-17T21:46:20.153Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -13817,7 +13817,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.151Z",
                 "updated_at": "2019-01-17T21:46:20.151Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -13831,7 +13831,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.149Z",
                 "updated_at": "2019-01-17T21:46:20.149Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -13845,7 +13845,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.147Z",
                 "updated_at": "2019-01-17T21:46:20.147Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13859,7 +13859,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:20.146Z",
                 "updated_at": "2019-01-17T21:46:20.146Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -13873,7 +13873,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.144Z",
                 "updated_at": "2019-01-17T21:46:20.144Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13887,7 +13887,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.142Z",
                 "updated_at": "2019-01-17T21:46:20.142Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13901,7 +13901,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.141Z",
                 "updated_at": "2019-01-17T21:46:20.141Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -13915,7 +13915,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:20.139Z",
                 "updated_at": "2019-01-17T21:46:20.139Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -13929,7 +13929,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.138Z",
                 "updated_at": "2019-01-17T21:46:20.138Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -13943,7 +13943,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.135Z",
                 "updated_at": "2019-01-17T21:46:20.135Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -13976,7 +13976,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.133Z",
                 "updated_at": "2019-01-17T21:46:22.133Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -13990,7 +13990,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.131Z",
                 "updated_at": "2019-01-17T21:46:22.131Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -14004,7 +14004,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.130Z",
                 "updated_at": "2019-01-17T21:46:22.130Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14018,7 +14018,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.128Z",
                 "updated_at": "2019-01-17T21:46:22.128Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -14051,7 +14051,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:22.716Z",
                 "updated_at": "2019-01-17T21:46:22.716Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14065,7 +14065,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.714Z",
                 "updated_at": "2019-01-17T21:46:22.714Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -14079,7 +14079,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:22.712Z",
                 "updated_at": "2019-01-17T21:46:22.712Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -14093,7 +14093,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:22.711Z",
                 "updated_at": "2019-01-17T21:46:22.711Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -14107,7 +14107,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.709Z",
                 "updated_at": "2019-01-17T21:46:22.709Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14121,7 +14121,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.707Z",
                 "updated_at": "2019-01-17T21:46:22.707Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -14135,7 +14135,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.706Z",
                 "updated_at": "2019-01-17T21:46:22.706Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14149,7 +14149,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.704Z",
                 "updated_at": "2019-01-17T21:46:22.704Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -14163,7 +14163,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:22.703Z",
                 "updated_at": "2019-01-17T21:46:22.703Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14177,7 +14177,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:22.701Z",
                 "updated_at": "2019-01-17T21:46:22.701Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -14210,7 +14210,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:22.365Z",
                 "updated_at": "2019-01-17T21:46:22.365Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14224,7 +14224,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:22.364Z",
                 "updated_at": "2019-01-17T21:46:22.364Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14238,7 +14238,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.362Z",
                 "updated_at": "2019-01-17T21:46:22.362Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14252,7 +14252,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.360Z",
                 "updated_at": "2019-01-17T21:46:22.360Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -14266,7 +14266,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.359Z",
                 "updated_at": "2019-01-17T21:46:22.359Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -14280,7 +14280,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.357Z",
                 "updated_at": "2019-01-17T21:46:22.357Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14294,7 +14294,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.356Z",
                 "updated_at": "2019-01-17T21:46:22.356Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14308,7 +14308,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.354Z",
                 "updated_at": "2019-01-17T21:46:22.354Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -14322,7 +14322,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.353Z",
                 "updated_at": "2019-01-17T21:46:22.353Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -14336,7 +14336,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.351Z",
                 "updated_at": "2019-01-17T21:46:22.351Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14350,7 +14350,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.350Z",
                 "updated_at": "2019-01-17T21:46:22.350Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14364,7 +14364,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:22.348Z",
                 "updated_at": "2019-01-17T21:46:22.348Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14378,7 +14378,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:22.346Z",
                 "updated_at": "2019-01-17T21:46:22.346Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14411,7 +14411,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.751Z",
                 "updated_at": "2019-01-17T21:46:19.751Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14425,7 +14425,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.749Z",
                 "updated_at": "2019-01-17T21:46:19.749Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14439,7 +14439,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:19.747Z",
                 "updated_at": "2019-01-17T21:46:19.747Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -14453,7 +14453,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.745Z",
                 "updated_at": "2019-01-17T21:46:19.745Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14467,7 +14467,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:19.744Z",
                 "updated_at": "2019-01-17T21:46:19.744Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -14481,7 +14481,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.742Z",
                 "updated_at": "2019-01-17T21:46:19.742Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -14495,7 +14495,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:19.739Z",
                 "updated_at": "2019-01-17T21:46:19.739Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -14509,7 +14509,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:19.738Z",
                 "updated_at": "2019-01-17T21:46:19.738Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -14523,7 +14523,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.736Z",
                 "updated_at": "2019-01-17T21:46:19.736Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -14537,7 +14537,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.734Z",
                 "updated_at": "2019-01-17T21:46:19.734Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14551,7 +14551,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:19.731Z",
                 "updated_at": "2019-01-17T21:46:19.731Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14565,7 +14565,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.729Z",
                 "updated_at": "2019-01-17T21:46:19.729Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -14579,7 +14579,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:19.728Z",
                 "updated_at": "2019-01-17T21:46:19.728Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -14593,7 +14593,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.726Z",
                 "updated_at": "2019-01-17T21:46:19.726Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14607,7 +14607,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.724Z",
                 "updated_at": "2019-01-17T21:46:19.724Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -14640,7 +14640,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.537Z",
                 "updated_at": "2019-01-17T21:46:17.537Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14654,7 +14654,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.535Z",
                 "updated_at": "2019-01-17T21:46:17.535Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14668,7 +14668,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:17.534Z",
                 "updated_at": "2019-01-17T21:46:17.534Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -14682,7 +14682,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.532Z",
                 "updated_at": "2019-01-17T21:46:17.532Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -14696,7 +14696,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.531Z",
                 "updated_at": "2019-01-17T21:46:17.531Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -14710,7 +14710,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.529Z",
                 "updated_at": "2019-01-17T21:46:17.529Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -14724,7 +14724,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.528Z",
                 "updated_at": "2019-01-17T21:46:17.528Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -14738,7 +14738,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:17.526Z",
                 "updated_at": "2019-01-17T21:46:17.526Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -14752,7 +14752,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.524Z",
                 "updated_at": "2019-01-17T21:46:17.524Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14766,7 +14766,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.523Z",
                 "updated_at": "2019-01-17T21:46:17.523Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -14780,7 +14780,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.521Z",
                 "updated_at": "2019-01-17T21:46:17.521Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -14794,7 +14794,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.520Z",
                 "updated_at": "2019-01-17T21:46:17.520Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -14808,7 +14808,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.518Z",
                 "updated_at": "2019-01-17T21:46:17.518Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14822,7 +14822,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.516Z",
                 "updated_at": "2019-01-17T21:46:17.516Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -14855,7 +14855,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.618Z",
                 "updated_at": "2019-01-17T21:46:21.618Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -14869,7 +14869,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.617Z",
                 "updated_at": "2019-01-17T21:46:21.617Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -14883,7 +14883,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.615Z",
                 "updated_at": "2019-01-17T21:46:21.615Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -14897,7 +14897,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.614Z",
                 "updated_at": "2019-01-17T21:46:21.614Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -14911,7 +14911,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.612Z",
                 "updated_at": "2019-01-17T21:46:21.612Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -14925,7 +14925,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.611Z",
                 "updated_at": "2019-01-17T21:46:21.611Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14939,7 +14939,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.609Z",
                 "updated_at": "2019-01-17T21:46:21.609Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -14953,7 +14953,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:21.607Z",
                 "updated_at": "2019-01-17T21:46:21.607Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -14967,7 +14967,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.606Z",
                 "updated_at": "2019-01-17T21:46:21.606Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -14981,7 +14981,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:21.604Z",
                 "updated_at": "2019-01-17T21:46:21.604Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -14995,7 +14995,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:21.602Z",
                 "updated_at": "2019-01-17T21:46:21.602Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -15009,7 +15009,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.601Z",
                 "updated_at": "2019-01-17T21:46:21.601Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -15023,7 +15023,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.599Z",
                 "updated_at": "2019-01-17T21:46:21.599Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -15037,7 +15037,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:21.597Z",
                 "updated_at": "2019-01-17T21:46:21.597Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -15070,7 +15070,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.081Z",
                 "updated_at": "2019-01-17T21:46:18.081Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -15084,7 +15084,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.079Z",
                 "updated_at": "2019-01-17T21:46:18.079Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -15098,7 +15098,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.078Z",
                 "updated_at": "2019-01-17T21:46:18.078Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -15112,7 +15112,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.076Z",
                 "updated_at": "2019-01-17T21:46:18.076Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -15126,7 +15126,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.074Z",
                 "updated_at": "2019-01-17T21:46:18.074Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -15159,7 +15159,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.370Z",
                 "updated_at": "2019-01-17T21:46:20.370Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -15192,7 +15192,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:22.590Z",
                 "updated_at": "2019-01-17T21:46:22.590Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -15206,7 +15206,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.588Z",
                 "updated_at": "2019-01-17T21:46:22.588Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -15220,7 +15220,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.586Z",
                 "updated_at": "2019-01-17T21:46:22.586Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -15234,7 +15234,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:22.585Z",
                 "updated_at": "2019-01-17T21:46:22.585Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -15248,7 +15248,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.583Z",
                 "updated_at": "2019-01-17T21:46:22.583Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -15262,7 +15262,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.582Z",
                 "updated_at": "2019-01-17T21:46:22.582Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -15276,7 +15276,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:22.580Z",
                 "updated_at": "2019-01-17T21:46:22.580Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -15290,7 +15290,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.579Z",
                 "updated_at": "2019-01-17T21:46:22.579Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -15304,7 +15304,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.577Z",
                 "updated_at": "2019-01-17T21:46:22.577Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15318,7 +15318,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.576Z",
                 "updated_at": "2019-01-17T21:46:22.576Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -15332,7 +15332,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.574Z",
                 "updated_at": "2019-01-17T21:46:22.574Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -15346,7 +15346,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.573Z",
                 "updated_at": "2019-01-17T21:46:22.573Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -15360,7 +15360,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.571Z",
                 "updated_at": "2019-01-17T21:46:22.571Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -15374,7 +15374,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.569Z",
                 "updated_at": "2019-01-17T21:46:22.569Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -15388,7 +15388,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:22.568Z",
                 "updated_at": "2019-01-17T21:46:22.568Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15421,7 +15421,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:22.311Z",
                 "updated_at": "2019-01-17T21:46:22.311Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15454,7 +15454,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.988Z",
                 "updated_at": "2019-01-17T21:46:19.988Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -15468,7 +15468,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.986Z",
                 "updated_at": "2019-01-17T21:46:19.986Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -15482,7 +15482,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.985Z",
                 "updated_at": "2019-01-17T21:46:19.985Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15496,7 +15496,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.983Z",
                 "updated_at": "2019-01-17T21:46:19.983Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -15510,7 +15510,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.981Z",
                 "updated_at": "2019-01-17T21:46:19.981Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15524,7 +15524,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.979Z",
                 "updated_at": "2019-01-17T21:46:19.979Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -15538,7 +15538,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:19.977Z",
                 "updated_at": "2019-01-17T21:46:19.977Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -15552,7 +15552,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.972Z",
                 "updated_at": "2019-01-17T21:46:19.972Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -15585,7 +15585,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.630Z",
                 "updated_at": "2019-01-17T21:46:17.630Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15599,7 +15599,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.629Z",
                 "updated_at": "2019-01-17T21:46:17.629Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15613,7 +15613,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.627Z",
                 "updated_at": "2019-01-17T21:46:17.627Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -15627,7 +15627,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.625Z",
                 "updated_at": "2019-01-17T21:46:17.625Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -15641,7 +15641,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:17.624Z",
                 "updated_at": "2019-01-17T21:46:17.624Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -15655,7 +15655,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.622Z",
                 "updated_at": "2019-01-17T21:46:17.622Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -15669,7 +15669,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.620Z",
                 "updated_at": "2019-01-17T21:46:17.620Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -15683,7 +15683,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.619Z",
                 "updated_at": "2019-01-17T21:46:17.619Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -15716,7 +15716,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:22.201Z",
                 "updated_at": "2019-01-17T21:46:22.201Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -15730,7 +15730,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:22.200Z",
                 "updated_at": "2019-01-17T21:46:22.200Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -15763,7 +15763,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:22.235Z",
                 "updated_at": "2019-01-17T21:46:22.235Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -15777,7 +15777,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.233Z",
                 "updated_at": "2019-01-17T21:46:22.233Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -15791,7 +15791,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:22.231Z",
                 "updated_at": "2019-01-17T21:46:22.231Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -15805,7 +15805,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.230Z",
                 "updated_at": "2019-01-17T21:46:22.230Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -15819,7 +15819,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.228Z",
                 "updated_at": "2019-01-17T21:46:22.228Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -15833,7 +15833,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.226Z",
                 "updated_at": "2019-01-17T21:46:22.226Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15847,7 +15847,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.224Z",
                 "updated_at": "2019-01-17T21:46:22.224Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -15880,7 +15880,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.314Z",
                 "updated_at": "2019-01-17T21:46:17.314Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -15894,7 +15894,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.313Z",
                 "updated_at": "2019-01-17T21:46:17.313Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -15908,7 +15908,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.311Z",
                 "updated_at": "2019-01-17T21:46:17.311Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -15922,7 +15922,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.309Z",
                 "updated_at": "2019-01-17T21:46:17.309Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -15936,7 +15936,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.307Z",
                 "updated_at": "2019-01-17T21:46:17.307Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -15969,7 +15969,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.803Z",
                 "updated_at": "2019-01-17T21:46:20.803Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -15983,7 +15983,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.802Z",
                 "updated_at": "2019-01-17T21:46:20.802Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -15997,7 +15997,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.800Z",
                 "updated_at": "2019-01-17T21:46:20.800Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -16011,7 +16011,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.799Z",
                 "updated_at": "2019-01-17T21:46:20.799Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -16025,7 +16025,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.797Z",
                 "updated_at": "2019-01-17T21:46:20.797Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -16039,7 +16039,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.796Z",
                 "updated_at": "2019-01-17T21:46:20.796Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -16053,7 +16053,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.794Z",
                 "updated_at": "2019-01-17T21:46:20.794Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -16067,7 +16067,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.792Z",
                 "updated_at": "2019-01-17T21:46:20.792Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16081,7 +16081,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:20.791Z",
                 "updated_at": "2019-01-17T21:46:20.791Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -16095,7 +16095,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.789Z",
                 "updated_at": "2019-01-17T21:46:20.789Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16109,7 +16109,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.787Z",
                 "updated_at": "2019-01-17T21:46:20.787Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16123,7 +16123,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.786Z",
                 "updated_at": "2019-01-17T21:46:20.786Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -16156,7 +16156,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.332Z",
                 "updated_at": "2019-01-17T21:46:22.332Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -16189,7 +16189,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:21.321Z",
                 "updated_at": "2019-01-17T21:46:21.321Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -16203,7 +16203,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.319Z",
                 "updated_at": "2019-01-17T21:46:21.319Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -16217,7 +16217,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.317Z",
                 "updated_at": "2019-01-17T21:46:21.317Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -16231,7 +16231,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.316Z",
                 "updated_at": "2019-01-17T21:46:21.316Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -16245,7 +16245,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:21.314Z",
                 "updated_at": "2019-01-17T21:46:21.314Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -16259,7 +16259,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.313Z",
                 "updated_at": "2019-01-17T21:46:21.313Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -16273,7 +16273,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:21.311Z",
                 "updated_at": "2019-01-17T21:46:21.311Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -16287,7 +16287,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.310Z",
                 "updated_at": "2019-01-17T21:46:21.310Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16301,7 +16301,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.308Z",
                 "updated_at": "2019-01-17T21:46:21.308Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16315,7 +16315,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.306Z",
                 "updated_at": "2019-01-17T21:46:21.306Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -16329,7 +16329,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:21.305Z",
                 "updated_at": "2019-01-17T21:46:21.305Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -16343,7 +16343,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:21.303Z",
                 "updated_at": "2019-01-17T21:46:21.303Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -16376,7 +16376,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.556Z",
                 "updated_at": "2019-01-17T21:46:20.556Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -16390,7 +16390,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:20.554Z",
                 "updated_at": "2019-01-17T21:46:20.554Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -16423,7 +16423,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.285Z",
                 "updated_at": "2019-01-17T21:46:17.285Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16437,7 +16437,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:17.283Z",
                 "updated_at": "2019-01-17T21:46:17.283Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -16451,7 +16451,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.280Z",
                 "updated_at": "2019-01-17T21:46:17.280Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -16465,7 +16465,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.279Z",
                 "updated_at": "2019-01-17T21:46:17.279Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16479,7 +16479,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.277Z",
                 "updated_at": "2019-01-17T21:46:17.277Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -16493,7 +16493,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.275Z",
                 "updated_at": "2019-01-17T21:46:17.275Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -16507,7 +16507,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.274Z",
                 "updated_at": "2019-01-17T21:46:17.274Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -16521,7 +16521,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.272Z",
                 "updated_at": "2019-01-17T21:46:17.272Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -16535,7 +16535,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.270Z",
                 "updated_at": "2019-01-17T21:46:17.270Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -16568,7 +16568,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:20.107Z",
                 "updated_at": "2019-01-17T21:46:20.107Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -16582,7 +16582,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.105Z",
                 "updated_at": "2019-01-17T21:46:20.105Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -16596,7 +16596,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.103Z",
                 "updated_at": "2019-01-17T21:46:20.103Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -16610,7 +16610,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.101Z",
                 "updated_at": "2019-01-17T21:46:20.101Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -16624,7 +16624,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.100Z",
                 "updated_at": "2019-01-17T21:46:20.100Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -16638,7 +16638,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.098Z",
                 "updated_at": "2019-01-17T21:46:20.098Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16652,7 +16652,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.097Z",
                 "updated_at": "2019-01-17T21:46:20.097Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -16666,7 +16666,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:20.094Z",
                 "updated_at": "2019-01-17T21:46:20.094Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -16680,7 +16680,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.093Z",
                 "updated_at": "2019-01-17T21:46:20.093Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16713,7 +16713,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.222Z",
                 "updated_at": "2019-01-17T21:46:17.222Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -16727,7 +16727,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.220Z",
                 "updated_at": "2019-01-17T21:46:17.220Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -16741,7 +16741,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.219Z",
                 "updated_at": "2019-01-17T21:46:17.219Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -16755,7 +16755,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.217Z",
                 "updated_at": "2019-01-17T21:46:17.217Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -16769,7 +16769,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:17.215Z",
                 "updated_at": "2019-01-17T21:46:17.215Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16783,7 +16783,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.213Z",
                 "updated_at": "2019-01-17T21:46:17.213Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -16797,7 +16797,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.211Z",
                 "updated_at": "2019-01-17T21:46:17.211Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -16811,7 +16811,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.209Z",
                 "updated_at": "2019-01-17T21:46:17.209Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -16825,7 +16825,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:17.207Z",
                 "updated_at": "2019-01-17T21:46:17.207Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -16839,7 +16839,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.201Z",
                 "updated_at": "2019-01-17T21:46:17.201Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -16853,7 +16853,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:17.199Z",
                 "updated_at": "2019-01-17T21:46:17.199Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -16867,7 +16867,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.198Z",
                 "updated_at": "2019-01-17T21:46:17.198Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -16881,7 +16881,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:17.196Z",
                 "updated_at": "2019-01-17T21:46:17.196Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -16895,7 +16895,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.195Z",
                 "updated_at": "2019-01-17T21:46:17.195Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -16946,7 +16946,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.083Z",
                 "updated_at": "2019-01-17T21:46:21.083Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -16960,7 +16960,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.082Z",
                 "updated_at": "2019-01-17T21:46:21.082Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -16974,7 +16974,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.080Z",
                 "updated_at": "2019-01-17T21:46:21.080Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -16988,7 +16988,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.079Z",
                 "updated_at": "2019-01-17T21:46:21.079Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -17002,7 +17002,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:21.077Z",
                 "updated_at": "2019-01-17T21:46:21.077Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -17016,7 +17016,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.076Z",
                 "updated_at": "2019-01-17T21:46:21.076Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17030,7 +17030,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:21.074Z",
                 "updated_at": "2019-01-17T21:46:21.074Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -17044,7 +17044,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:21.073Z",
                 "updated_at": "2019-01-17T21:46:21.073Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -17077,7 +17077,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.459Z",
                 "updated_at": "2019-01-17T21:46:18.459Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -17091,7 +17091,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.458Z",
                 "updated_at": "2019-01-17T21:46:18.458Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -17105,7 +17105,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.456Z",
                 "updated_at": "2019-01-17T21:46:18.456Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17119,7 +17119,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.455Z",
                 "updated_at": "2019-01-17T21:46:18.455Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -17133,7 +17133,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:18.453Z",
                 "updated_at": "2019-01-17T21:46:18.453Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17147,7 +17147,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.451Z",
                 "updated_at": "2019-01-17T21:46:18.451Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -17161,7 +17161,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.450Z",
                 "updated_at": "2019-01-17T21:46:18.450Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -17175,7 +17175,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:18.448Z",
                 "updated_at": "2019-01-17T21:46:18.448Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -17189,7 +17189,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.447Z",
                 "updated_at": "2019-01-17T21:46:18.447Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -17203,7 +17203,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.445Z",
                 "updated_at": "2019-01-17T21:46:18.445Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -17254,7 +17254,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.450Z",
                 "updated_at": "2019-01-17T21:46:20.450Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -17268,7 +17268,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.449Z",
                 "updated_at": "2019-01-17T21:46:20.449Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -17282,7 +17282,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.447Z",
                 "updated_at": "2019-01-17T21:46:20.447Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -17296,7 +17296,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.446Z",
                 "updated_at": "2019-01-17T21:46:20.446Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -17310,7 +17310,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.444Z",
                 "updated_at": "2019-01-17T21:46:20.444Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -17324,7 +17324,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.442Z",
                 "updated_at": "2019-01-17T21:46:20.442Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -17357,7 +17357,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:19.246Z",
                 "updated_at": "2019-01-17T21:46:19.246Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -17390,7 +17390,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:16.722Z",
                 "updated_at": "2019-01-17T21:46:16.722Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -17404,7 +17404,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.721Z",
                 "updated_at": "2019-01-17T21:46:16.721Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -17418,7 +17418,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.719Z",
                 "updated_at": "2019-01-17T21:46:16.719Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -17432,7 +17432,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:16.717Z",
                 "updated_at": "2019-01-17T21:46:16.717Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -17446,7 +17446,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.716Z",
                 "updated_at": "2019-01-17T21:46:16.716Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -17479,7 +17479,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.958Z",
                 "updated_at": "2019-01-17T21:46:16.958Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -17493,7 +17493,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.955Z",
                 "updated_at": "2019-01-17T21:46:16.955Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -17507,7 +17507,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.953Z",
                 "updated_at": "2019-01-17T21:46:16.953Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -17521,7 +17521,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.951Z",
                 "updated_at": "2019-01-17T21:46:16.951Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -17554,7 +17554,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.010Z",
                 "updated_at": "2019-01-17T21:46:18.010Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -17568,7 +17568,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:18.008Z",
                 "updated_at": "2019-01-17T21:46:18.008Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -17582,7 +17582,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:18.006Z",
                 "updated_at": "2019-01-17T21:46:18.006Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -17596,7 +17596,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.004Z",
                 "updated_at": "2019-01-17T21:46:18.004Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -17610,7 +17610,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.002Z",
                 "updated_at": "2019-01-17T21:46:18.002Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -17624,7 +17624,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.998Z",
                 "updated_at": "2019-01-17T21:46:17.998Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -17638,7 +17638,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.997Z",
                 "updated_at": "2019-01-17T21:46:17.997Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -17652,7 +17652,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.995Z",
                 "updated_at": "2019-01-17T21:46:17.995Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -17666,7 +17666,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.994Z",
                 "updated_at": "2019-01-17T21:46:17.994Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17680,7 +17680,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.992Z",
                 "updated_at": "2019-01-17T21:46:17.992Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -17694,7 +17694,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:17.990Z",
                 "updated_at": "2019-01-17T21:46:17.990Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -17708,7 +17708,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.988Z",
                 "updated_at": "2019-01-17T21:46:17.988Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -17722,7 +17722,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:17.986Z",
                 "updated_at": "2019-01-17T21:46:17.986Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17755,7 +17755,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:16.857Z",
                 "updated_at": "2019-01-17T21:46:16.857Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -17769,7 +17769,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.856Z",
                 "updated_at": "2019-01-17T21:46:16.856Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -17783,7 +17783,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.854Z",
                 "updated_at": "2019-01-17T21:46:16.854Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -17797,7 +17797,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:16.852Z",
                 "updated_at": "2019-01-17T21:46:16.852Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17811,7 +17811,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:16.851Z",
                 "updated_at": "2019-01-17T21:46:16.851Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17844,7 +17844,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:18.958Z",
                 "updated_at": "2019-01-17T21:46:18.958Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -17877,7 +17877,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.799Z",
                 "updated_at": "2019-01-17T21:46:16.799Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -17891,7 +17891,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.797Z",
                 "updated_at": "2019-01-17T21:46:16.797Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -17905,7 +17905,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.796Z",
                 "updated_at": "2019-01-17T21:46:16.796Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -17938,7 +17938,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.581Z",
                 "updated_at": "2019-01-17T21:46:18.581Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17952,7 +17952,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:18.579Z",
                 "updated_at": "2019-01-17T21:46:18.579Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -17966,7 +17966,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:18.577Z",
                 "updated_at": "2019-01-17T21:46:18.577Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -17980,7 +17980,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.575Z",
                 "updated_at": "2019-01-17T21:46:18.575Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -17994,7 +17994,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.573Z",
                 "updated_at": "2019-01-17T21:46:18.573Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -18008,7 +18008,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:18.571Z",
                 "updated_at": "2019-01-17T21:46:18.571Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -18022,7 +18022,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:18.569Z",
                 "updated_at": "2019-01-17T21:46:18.569Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -18073,7 +18073,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:15.850Z",
                 "updated_at": "2019-01-17T21:46:15.850Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -18087,7 +18087,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:15.849Z",
                 "updated_at": "2019-01-17T21:46:15.849Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -18101,7 +18101,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:15.847Z",
                 "updated_at": "2019-01-17T21:46:15.847Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -18115,7 +18115,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:15.845Z",
                 "updated_at": "2019-01-17T21:46:15.845Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -18129,7 +18129,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:15.844Z",
                 "updated_at": "2019-01-17T21:46:15.844Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -18143,7 +18143,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:15.842Z",
                 "updated_at": "2019-01-17T21:46:15.842Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -18157,7 +18157,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:15.841Z",
                 "updated_at": "2019-01-17T21:46:15.841Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -18171,7 +18171,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:15.839Z",
                 "updated_at": "2019-01-17T21:46:15.839Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -18185,7 +18185,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:15.837Z",
                 "updated_at": "2019-01-17T21:46:15.837Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18199,7 +18199,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:15.836Z",
                 "updated_at": "2019-01-17T21:46:15.836Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -18213,7 +18213,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:15.834Z",
                 "updated_at": "2019-01-17T21:46:15.834Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -18227,7 +18227,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:15.832Z",
                 "updated_at": "2019-01-17T21:46:15.832Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -18241,7 +18241,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:15.830Z",
                 "updated_at": "2019-01-17T21:46:15.830Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -18255,7 +18255,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:15.829Z",
                 "updated_at": "2019-01-17T21:46:15.829Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -18288,7 +18288,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.957Z",
                 "updated_at": "2019-01-17T21:46:17.957Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -18302,7 +18302,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.955Z",
                 "updated_at": "2019-01-17T21:46:17.955Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18316,7 +18316,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.954Z",
                 "updated_at": "2019-01-17T21:46:17.954Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18330,7 +18330,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.952Z",
                 "updated_at": "2019-01-17T21:46:17.952Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -18344,7 +18344,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.951Z",
                 "updated_at": "2019-01-17T21:46:17.951Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -18358,7 +18358,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.949Z",
                 "updated_at": "2019-01-17T21:46:17.949Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -18372,7 +18372,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.947Z",
                 "updated_at": "2019-01-17T21:46:17.947Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -18386,7 +18386,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.946Z",
                 "updated_at": "2019-01-17T21:46:17.946Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -18400,7 +18400,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.944Z",
                 "updated_at": "2019-01-17T21:46:17.944Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -18414,7 +18414,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:17.942Z",
                 "updated_at": "2019-01-17T21:46:17.942Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -18428,7 +18428,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.941Z",
                 "updated_at": "2019-01-17T21:46:17.941Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -18479,7 +18479,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.882Z",
                 "updated_at": "2019-01-17T21:46:18.882Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -18493,7 +18493,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.880Z",
                 "updated_at": "2019-01-17T21:46:18.880Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -18507,7 +18507,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.879Z",
                 "updated_at": "2019-01-17T21:46:18.879Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18521,7 +18521,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.877Z",
                 "updated_at": "2019-01-17T21:46:18.877Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18535,7 +18535,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:18.875Z",
                 "updated_at": "2019-01-17T21:46:18.875Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -18549,7 +18549,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:18.873Z",
                 "updated_at": "2019-01-17T21:46:18.873Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -18582,7 +18582,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.838Z",
                 "updated_at": "2019-01-17T21:46:18.838Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18596,7 +18596,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:18.836Z",
                 "updated_at": "2019-01-17T21:46:18.836Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -18610,7 +18610,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:18.835Z",
                 "updated_at": "2019-01-17T21:46:18.835Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -18624,7 +18624,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.833Z",
                 "updated_at": "2019-01-17T21:46:18.833Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -18638,7 +18638,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.831Z",
                 "updated_at": "2019-01-17T21:46:18.831Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -18652,7 +18652,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:18.830Z",
                 "updated_at": "2019-01-17T21:46:18.830Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -18666,7 +18666,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.828Z",
                 "updated_at": "2019-01-17T21:46:18.828Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -18680,7 +18680,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:18.827Z",
                 "updated_at": "2019-01-17T21:46:18.827Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -18694,7 +18694,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.825Z",
                 "updated_at": "2019-01-17T21:46:18.825Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -18708,7 +18708,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.824Z",
                 "updated_at": "2019-01-17T21:46:18.824Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -18722,7 +18722,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.822Z",
                 "updated_at": "2019-01-17T21:46:18.822Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -18736,7 +18736,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.821Z",
                 "updated_at": "2019-01-17T21:46:18.821Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -18750,7 +18750,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:18.819Z",
                 "updated_at": "2019-01-17T21:46:18.819Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -18764,7 +18764,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.817Z",
                 "updated_at": "2019-01-17T21:46:18.817Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -18778,7 +18778,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.816Z",
                 "updated_at": "2019-01-17T21:46:18.816Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18811,7 +18811,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:18.404Z",
                 "updated_at": "2019-01-17T21:46:18.404Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -18825,7 +18825,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.402Z",
                 "updated_at": "2019-01-17T21:46:18.402Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -18839,7 +18839,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.401Z",
                 "updated_at": "2019-01-17T21:46:18.401Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18872,7 +18872,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.580Z",
                 "updated_at": "2019-01-17T21:46:16.580Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -18886,7 +18886,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:16.578Z",
                 "updated_at": "2019-01-17T21:46:16.578Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -18900,7 +18900,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:16.576Z",
                 "updated_at": "2019-01-17T21:46:16.576Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -18914,7 +18914,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.575Z",
                 "updated_at": "2019-01-17T21:46:16.575Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -18928,7 +18928,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:16.573Z",
                 "updated_at": "2019-01-17T21:46:16.573Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -18942,7 +18942,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:16.571Z",
                 "updated_at": "2019-01-17T21:46:16.571Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -18956,7 +18956,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.570Z",
                 "updated_at": "2019-01-17T21:46:16.570Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -18970,7 +18970,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.568Z",
                 "updated_at": "2019-01-17T21:46:16.568Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -19003,7 +19003,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.221Z",
                 "updated_at": "2019-01-17T21:46:18.221Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -19017,7 +19017,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:18.220Z",
                 "updated_at": "2019-01-17T21:46:18.220Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -19031,7 +19031,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.218Z",
                 "updated_at": "2019-01-17T21:46:18.218Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -19045,7 +19045,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.216Z",
                 "updated_at": "2019-01-17T21:46:18.216Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -19059,7 +19059,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.214Z",
                 "updated_at": "2019-01-17T21:46:18.214Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -19128,7 +19128,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.711Z",
                 "updated_at": "2019-01-17T21:46:18.711Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -19142,7 +19142,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.709Z",
                 "updated_at": "2019-01-17T21:46:18.709Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -19156,7 +19156,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.707Z",
                 "updated_at": "2019-01-17T21:46:18.707Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -19170,7 +19170,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.706Z",
                 "updated_at": "2019-01-17T21:46:18.706Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -19184,7 +19184,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.704Z",
                 "updated_at": "2019-01-17T21:46:18.704Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -19235,7 +19235,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.680Z",
                 "updated_at": "2019-01-17T21:46:18.680Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -19249,7 +19249,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.679Z",
                 "updated_at": "2019-01-17T21:46:18.679Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -19263,7 +19263,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.677Z",
                 "updated_at": "2019-01-17T21:46:18.677Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -19277,7 +19277,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:18.676Z",
                 "updated_at": "2019-01-17T21:46:18.676Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -19291,7 +19291,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.674Z",
                 "updated_at": "2019-01-17T21:46:18.674Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -19305,7 +19305,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:18.673Z",
                 "updated_at": "2019-01-17T21:46:18.673Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -19319,7 +19319,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.671Z",
                 "updated_at": "2019-01-17T21:46:18.671Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -19333,7 +19333,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.670Z",
                 "updated_at": "2019-01-17T21:46:18.670Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -19347,7 +19347,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.668Z",
                 "updated_at": "2019-01-17T21:46:18.668Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -19361,7 +19361,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.666Z",
                 "updated_at": "2019-01-17T21:46:18.666Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -19375,7 +19375,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.665Z",
                 "updated_at": "2019-01-17T21:46:18.665Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -19389,7 +19389,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:18.663Z",
                 "updated_at": "2019-01-17T21:46:18.663Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -19422,7 +19422,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:17.021Z",
                 "updated_at": "2019-01-17T21:46:17.021Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -19436,7 +19436,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.020Z",
                 "updated_at": "2019-01-17T21:46:17.020Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -19450,7 +19450,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.018Z",
                 "updated_at": "2019-01-17T21:46:17.018Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -19464,7 +19464,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.017Z",
                 "updated_at": "2019-01-17T21:46:17.017Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -19478,7 +19478,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.015Z",
                 "updated_at": "2019-01-17T21:46:17.015Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -19492,7 +19492,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.014Z",
                 "updated_at": "2019-01-17T21:46:17.014Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -19506,7 +19506,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.012Z",
                 "updated_at": "2019-01-17T21:46:17.012Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -19520,7 +19520,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.010Z",
                 "updated_at": "2019-01-17T21:46:17.010Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -19534,7 +19534,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.009Z",
                 "updated_at": "2019-01-17T21:46:17.009Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -19567,7 +19567,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:22.936Z",
                 "updated_at": "2019-01-17T21:46:22.936Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -19581,7 +19581,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.935Z",
                 "updated_at": "2019-01-17T21:46:22.935Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -19595,7 +19595,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:22.933Z",
                 "updated_at": "2019-01-17T21:46:22.933Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -19609,7 +19609,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.931Z",
                 "updated_at": "2019-01-17T21:46:22.931Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -19623,7 +19623,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.929Z",
                 "updated_at": "2019-01-17T21:46:22.929Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -19637,7 +19637,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.928Z",
                 "updated_at": "2019-01-17T21:46:22.928Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -19651,7 +19651,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.926Z",
                 "updated_at": "2019-01-17T21:46:22.926Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -19665,7 +19665,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.924Z",
                 "updated_at": "2019-01-17T21:46:22.924Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -19679,7 +19679,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.921Z",
                 "updated_at": "2019-01-17T21:46:22.921Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -19693,7 +19693,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.919Z",
                 "updated_at": "2019-01-17T21:46:22.919Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -19707,7 +19707,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.917Z",
                 "updated_at": "2019-01-17T21:46:22.917Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -19740,7 +19740,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.304Z",
                 "updated_at": "2019-01-17T21:46:18.304Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -19754,7 +19754,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:18.302Z",
                 "updated_at": "2019-01-17T21:46:18.302Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -19768,7 +19768,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.300Z",
                 "updated_at": "2019-01-17T21:46:18.300Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -19782,7 +19782,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.299Z",
                 "updated_at": "2019-01-17T21:46:18.299Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -19815,7 +19815,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:16.486Z",
                 "updated_at": "2019-01-17T21:46:16.486Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -19829,7 +19829,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.484Z",
                 "updated_at": "2019-01-17T21:46:16.484Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -19843,7 +19843,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.483Z",
                 "updated_at": "2019-01-17T21:46:16.483Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -19857,7 +19857,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:16.481Z",
                 "updated_at": "2019-01-17T21:46:16.481Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -19871,7 +19871,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.479Z",
                 "updated_at": "2019-01-17T21:46:16.479Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -19885,7 +19885,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.477Z",
                 "updated_at": "2019-01-17T21:46:16.477Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -19899,7 +19899,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.475Z",
                 "updated_at": "2019-01-17T21:46:16.475Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -19913,7 +19913,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.473Z",
                 "updated_at": "2019-01-17T21:46:16.473Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -19927,7 +19927,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.472Z",
                 "updated_at": "2019-01-17T21:46:16.472Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -19941,7 +19941,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.470Z",
                 "updated_at": "2019-01-17T21:46:16.470Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -19955,7 +19955,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.468Z",
                 "updated_at": "2019-01-17T21:46:16.468Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -19969,7 +19969,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.467Z",
                 "updated_at": "2019-01-17T21:46:16.467Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -19983,7 +19983,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:16.465Z",
                 "updated_at": "2019-01-17T21:46:16.465Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -20016,7 +20016,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.517Z",
                 "updated_at": "2019-01-17T21:46:22.517Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -20030,7 +20030,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.515Z",
                 "updated_at": "2019-01-17T21:46:22.515Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -20044,7 +20044,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:22.513Z",
                 "updated_at": "2019-01-17T21:46:22.513Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -20058,7 +20058,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.511Z",
                 "updated_at": "2019-01-17T21:46:22.511Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -20072,7 +20072,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.509Z",
                 "updated_at": "2019-01-17T21:46:22.509Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -20086,7 +20086,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.508Z",
                 "updated_at": "2019-01-17T21:46:22.508Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -20100,7 +20100,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:22.506Z",
                 "updated_at": "2019-01-17T21:46:22.506Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -20114,7 +20114,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.504Z",
                 "updated_at": "2019-01-17T21:46:22.504Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -20128,7 +20128,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.503Z",
                 "updated_at": "2019-01-17T21:46:22.503Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20142,7 +20142,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.501Z",
                 "updated_at": "2019-01-17T21:46:22.501Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -20175,7 +20175,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.892Z",
                 "updated_at": "2019-01-17T21:46:16.892Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -20189,7 +20189,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.890Z",
                 "updated_at": "2019-01-17T21:46:16.890Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -20203,7 +20203,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.889Z",
                 "updated_at": "2019-01-17T21:46:16.889Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -20217,7 +20217,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.887Z",
                 "updated_at": "2019-01-17T21:46:16.887Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -20231,7 +20231,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.886Z",
                 "updated_at": "2019-01-17T21:46:16.886Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20245,7 +20245,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.884Z",
                 "updated_at": "2019-01-17T21:46:16.884Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -20259,7 +20259,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.882Z",
                 "updated_at": "2019-01-17T21:46:16.882Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -20273,7 +20273,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:16.880Z",
                 "updated_at": "2019-01-17T21:46:16.880Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20287,7 +20287,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.877Z",
                 "updated_at": "2019-01-17T21:46:16.877Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -20301,7 +20301,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.875Z",
                 "updated_at": "2019-01-17T21:46:16.875Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -20315,7 +20315,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.873Z",
                 "updated_at": "2019-01-17T21:46:16.873Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -20348,7 +20348,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.776Z",
                 "updated_at": "2019-01-17T21:46:22.776Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -20362,7 +20362,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.775Z",
                 "updated_at": "2019-01-17T21:46:22.775Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -20376,7 +20376,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:22.773Z",
                 "updated_at": "2019-01-17T21:46:22.773Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -20390,7 +20390,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:22.771Z",
                 "updated_at": "2019-01-17T21:46:22.771Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -20404,7 +20404,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:22.770Z",
                 "updated_at": "2019-01-17T21:46:22.770Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -20418,7 +20418,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.768Z",
                 "updated_at": "2019-01-17T21:46:22.768Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -20432,7 +20432,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.766Z",
                 "updated_at": "2019-01-17T21:46:22.766Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -20446,7 +20446,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.764Z",
                 "updated_at": "2019-01-17T21:46:22.764Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -20479,7 +20479,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.034Z",
                 "updated_at": "2019-01-17T21:46:16.034Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -20493,7 +20493,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:16.033Z",
                 "updated_at": "2019-01-17T21:46:16.033Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -20507,7 +20507,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:16.031Z",
                 "updated_at": "2019-01-17T21:46:16.031Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -20540,7 +20540,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.253Z",
                 "updated_at": "2019-01-17T21:46:17.253Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -20554,7 +20554,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.251Z",
                 "updated_at": "2019-01-17T21:46:17.251Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20568,7 +20568,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.249Z",
                 "updated_at": "2019-01-17T21:46:17.249Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -20582,7 +20582,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.248Z",
                 "updated_at": "2019-01-17T21:46:17.248Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -20596,7 +20596,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.246Z",
                 "updated_at": "2019-01-17T21:46:17.246Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -20610,7 +20610,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.244Z",
                 "updated_at": "2019-01-17T21:46:17.244Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20624,7 +20624,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.242Z",
                 "updated_at": "2019-01-17T21:46:17.242Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -20657,7 +20657,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:15.729Z",
                 "updated_at": "2019-01-17T21:46:15.729Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -20671,7 +20671,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:15.728Z",
                 "updated_at": "2019-01-17T21:46:15.728Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20685,7 +20685,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:15.726Z",
                 "updated_at": "2019-01-17T21:46:15.726Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -20699,7 +20699,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:15.723Z",
                 "updated_at": "2019-01-17T21:46:15.723Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -20732,7 +20732,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.048Z",
                 "updated_at": "2019-01-17T21:46:22.048Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -20746,7 +20746,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:22.046Z",
                 "updated_at": "2019-01-17T21:46:22.046Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -20760,7 +20760,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.045Z",
                 "updated_at": "2019-01-17T21:46:22.045Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -20774,7 +20774,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.043Z",
                 "updated_at": "2019-01-17T21:46:22.043Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -20788,7 +20788,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:22.041Z",
                 "updated_at": "2019-01-17T21:46:22.041Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20802,7 +20802,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.039Z",
                 "updated_at": "2019-01-17T21:46:22.039Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -20816,7 +20816,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:22.037Z",
                 "updated_at": "2019-01-17T21:46:22.037Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -20830,7 +20830,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:22.035Z",
                 "updated_at": "2019-01-17T21:46:22.035Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20844,7 +20844,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.032Z",
                 "updated_at": "2019-01-17T21:46:22.032Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -20858,7 +20858,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:22.026Z",
                 "updated_at": "2019-01-17T21:46:22.026Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -20891,7 +20891,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:16.263Z",
                 "updated_at": "2019-01-17T21:46:16.263Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -20905,7 +20905,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.261Z",
                 "updated_at": "2019-01-17T21:46:16.261Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -20919,7 +20919,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.259Z",
                 "updated_at": "2019-01-17T21:46:16.259Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -20933,7 +20933,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:16.255Z",
                 "updated_at": "2019-01-17T21:46:16.255Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -20966,7 +20966,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:16.753Z",
                 "updated_at": "2019-01-17T21:46:16.753Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -20980,7 +20980,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.751Z",
                 "updated_at": "2019-01-17T21:46:16.751Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -20994,7 +20994,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.749Z",
                 "updated_at": "2019-01-17T21:46:16.749Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -21008,7 +21008,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.748Z",
                 "updated_at": "2019-01-17T21:46:16.748Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -21022,7 +21022,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.746Z",
                 "updated_at": "2019-01-17T21:46:16.746Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -21036,7 +21036,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:16.744Z",
                 "updated_at": "2019-01-17T21:46:16.744Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -21069,7 +21069,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:22.978Z",
                 "updated_at": "2019-01-17T21:46:22.978Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -21083,7 +21083,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:22.976Z",
                 "updated_at": "2019-01-17T21:46:22.976Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -21097,7 +21097,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.974Z",
                 "updated_at": "2019-01-17T21:46:22.974Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -21111,7 +21111,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.972Z",
                 "updated_at": "2019-01-17T21:46:22.972Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -21125,7 +21125,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.971Z",
                 "updated_at": "2019-01-17T21:46:22.971Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -21139,7 +21139,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:22.969Z",
                 "updated_at": "2019-01-17T21:46:22.969Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -21153,7 +21153,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.967Z",
                 "updated_at": "2019-01-17T21:46:22.967Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -21167,7 +21167,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.966Z",
                 "updated_at": "2019-01-17T21:46:22.966Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -21200,7 +21200,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.705Z",
                 "updated_at": "2019-01-17T21:46:20.705Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -21214,7 +21214,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.703Z",
                 "updated_at": "2019-01-17T21:46:20.703Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -21228,7 +21228,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.702Z",
                 "updated_at": "2019-01-17T21:46:20.702Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -21242,7 +21242,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:20.700Z",
                 "updated_at": "2019-01-17T21:46:20.700Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -21256,7 +21256,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:20.698Z",
                 "updated_at": "2019-01-17T21:46:20.698Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -21270,7 +21270,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.696Z",
                 "updated_at": "2019-01-17T21:46:20.696Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -21284,7 +21284,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:20.695Z",
                 "updated_at": "2019-01-17T21:46:20.695Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -21298,7 +21298,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.693Z",
                 "updated_at": "2019-01-17T21:46:20.693Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -21312,7 +21312,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.690Z",
                 "updated_at": "2019-01-17T21:46:20.690Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -21326,7 +21326,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.688Z",
                 "updated_at": "2019-01-17T21:46:20.688Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -21340,7 +21340,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:20.686Z",
                 "updated_at": "2019-01-17T21:46:20.686Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -21373,7 +21373,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:17.899Z",
                 "updated_at": "2019-01-17T21:46:17.899Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -21387,7 +21387,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.897Z",
                 "updated_at": "2019-01-17T21:46:17.897Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -21401,7 +21401,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.895Z",
                 "updated_at": "2019-01-17T21:46:17.895Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -21415,7 +21415,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.894Z",
                 "updated_at": "2019-01-17T21:46:17.894Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -21429,7 +21429,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.892Z",
                 "updated_at": "2019-01-17T21:46:17.892Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -21443,7 +21443,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.890Z",
                 "updated_at": "2019-01-17T21:46:17.890Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -21457,7 +21457,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.889Z",
                 "updated_at": "2019-01-17T21:46:17.889Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -21471,7 +21471,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.887Z",
                 "updated_at": "2019-01-17T21:46:17.887Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -21504,7 +21504,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.885Z",
                 "updated_at": "2019-01-17T21:46:22.885Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -21518,7 +21518,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.883Z",
                 "updated_at": "2019-01-17T21:46:22.883Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -21532,7 +21532,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.882Z",
                 "updated_at": "2019-01-17T21:46:22.882Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -21546,7 +21546,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:22.880Z",
                 "updated_at": "2019-01-17T21:46:22.880Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -21560,7 +21560,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:22.878Z",
                 "updated_at": "2019-01-17T21:46:22.878Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -21574,7 +21574,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:22.877Z",
                 "updated_at": "2019-01-17T21:46:22.877Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -21588,7 +21588,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.875Z",
                 "updated_at": "2019-01-17T21:46:22.875Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -21602,7 +21602,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.873Z",
                 "updated_at": "2019-01-17T21:46:22.873Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -21616,7 +21616,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.872Z",
                 "updated_at": "2019-01-17T21:46:22.872Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -21630,7 +21630,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:22.870Z",
                 "updated_at": "2019-01-17T21:46:22.870Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -21644,7 +21644,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:22.868Z",
                 "updated_at": "2019-01-17T21:46:22.868Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -21677,7 +21677,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:16.451Z",
                 "updated_at": "2019-01-17T21:46:16.451Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -21691,7 +21691,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.449Z",
                 "updated_at": "2019-01-17T21:46:16.449Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -21705,7 +21705,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:16.448Z",
                 "updated_at": "2019-01-17T21:46:16.448Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -21738,7 +21738,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:17.796Z",
                 "updated_at": "2019-01-17T21:46:17.796Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -21752,7 +21752,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.794Z",
                 "updated_at": "2019-01-17T21:46:17.794Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -21766,7 +21766,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.792Z",
                 "updated_at": "2019-01-17T21:46:17.792Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -21780,7 +21780,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.791Z",
                 "updated_at": "2019-01-17T21:46:17.791Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -21794,7 +21794,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.789Z",
                 "updated_at": "2019-01-17T21:46:17.789Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -21808,7 +21808,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:17.788Z",
                 "updated_at": "2019-01-17T21:46:17.788Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -21822,7 +21822,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:17.786Z",
                 "updated_at": "2019-01-17T21:46:17.786Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -21836,7 +21836,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.785Z",
                 "updated_at": "2019-01-17T21:46:17.785Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -21850,7 +21850,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:17.783Z",
                 "updated_at": "2019-01-17T21:46:17.783Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -21864,7 +21864,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.781Z",
                 "updated_at": "2019-01-17T21:46:17.781Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -21878,7 +21878,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.780Z",
                 "updated_at": "2019-01-17T21:46:17.780Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -21892,7 +21892,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:17.778Z",
                 "updated_at": "2019-01-17T21:46:17.778Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -21925,7 +21925,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.155Z",
                 "updated_at": "2019-01-17T21:46:18.155Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -21939,7 +21939,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.153Z",
                 "updated_at": "2019-01-17T21:46:18.153Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -21953,7 +21953,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:18.151Z",
                 "updated_at": "2019-01-17T21:46:18.151Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -21967,7 +21967,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.149Z",
                 "updated_at": "2019-01-17T21:46:18.149Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -21981,7 +21981,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:18.148Z",
                 "updated_at": "2019-01-17T21:46:18.148Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -21995,7 +21995,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:18.146Z",
                 "updated_at": "2019-01-17T21:46:18.146Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -22009,7 +22009,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:18.144Z",
                 "updated_at": "2019-01-17T21:46:18.144Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -22023,7 +22023,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.143Z",
                 "updated_at": "2019-01-17T21:46:18.143Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22056,7 +22056,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.057Z",
                 "updated_at": "2019-01-17T21:46:18.057Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -22070,7 +22070,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:18.056Z",
                 "updated_at": "2019-01-17T21:46:18.056Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -22084,7 +22084,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:18.054Z",
                 "updated_at": "2019-01-17T21:46:18.054Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -22117,7 +22117,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.426Z",
                 "updated_at": "2019-01-17T21:46:18.426Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -22131,7 +22131,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.424Z",
                 "updated_at": "2019-01-17T21:46:18.424Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -22145,7 +22145,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.422Z",
                 "updated_at": "2019-01-17T21:46:18.422Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -22159,7 +22159,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.421Z",
                 "updated_at": "2019-01-17T21:46:18.421Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -22192,7 +22192,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:19.020Z",
                 "updated_at": "2019-01-17T21:46:19.020Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -22206,7 +22206,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.018Z",
                 "updated_at": "2019-01-17T21:46:19.018Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -22220,7 +22220,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:19.015Z",
                 "updated_at": "2019-01-17T21:46:19.015Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -22234,7 +22234,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.989Z",
                 "updated_at": "2019-01-17T21:46:18.989Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -22248,7 +22248,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.987Z",
                 "updated_at": "2019-01-17T21:46:18.987Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22281,7 +22281,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:19.293Z",
                 "updated_at": "2019-01-17T21:46:19.293Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -22295,7 +22295,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.291Z",
                 "updated_at": "2019-01-17T21:46:19.291Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -22309,7 +22309,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:19.290Z",
                 "updated_at": "2019-01-17T21:46:19.290Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -22323,7 +22323,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:19.288Z",
                 "updated_at": "2019-01-17T21:46:19.288Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -22337,7 +22337,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.286Z",
                 "updated_at": "2019-01-17T21:46:19.286Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22351,7 +22351,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:19.285Z",
                 "updated_at": "2019-01-17T21:46:19.285Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -22365,7 +22365,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:19.283Z",
                 "updated_at": "2019-01-17T21:46:19.283Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -22379,7 +22379,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:19.281Z",
                 "updated_at": "2019-01-17T21:46:19.281Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22393,7 +22393,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:19.280Z",
                 "updated_at": "2019-01-17T21:46:19.280Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22407,7 +22407,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:19.278Z",
                 "updated_at": "2019-01-17T21:46:19.278Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -22421,7 +22421,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:19.277Z",
                 "updated_at": "2019-01-17T21:46:19.277Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -22435,7 +22435,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:19.275Z",
                 "updated_at": "2019-01-17T21:46:19.275Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22449,7 +22449,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:19.273Z",
                 "updated_at": "2019-01-17T21:46:19.273Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -22482,7 +22482,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.738Z",
                 "updated_at": "2019-01-17T21:46:21.738Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22496,7 +22496,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.736Z",
                 "updated_at": "2019-01-17T21:46:21.736Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -22510,7 +22510,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.735Z",
                 "updated_at": "2019-01-17T21:46:21.735Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22524,7 +22524,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:21.733Z",
                 "updated_at": "2019-01-17T21:46:21.733Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22538,7 +22538,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.732Z",
                 "updated_at": "2019-01-17T21:46:21.732Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -22552,7 +22552,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:21.730Z",
                 "updated_at": "2019-01-17T21:46:21.730Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -22566,7 +22566,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.729Z",
                 "updated_at": "2019-01-17T21:46:21.729Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -22580,7 +22580,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:21.727Z",
                 "updated_at": "2019-01-17T21:46:21.727Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -22594,7 +22594,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:21.726Z",
                 "updated_at": "2019-01-17T21:46:21.726Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -22608,7 +22608,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:21.724Z",
                 "updated_at": "2019-01-17T21:46:21.724Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -22622,7 +22622,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:21.722Z",
                 "updated_at": "2019-01-17T21:46:21.722Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22655,7 +22655,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:16.544Z",
                 "updated_at": "2019-01-17T21:46:16.544Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22669,7 +22669,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:16.542Z",
                 "updated_at": "2019-01-17T21:46:16.542Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -22683,7 +22683,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:16.540Z",
                 "updated_at": "2019-01-17T21:46:16.540Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -22697,7 +22697,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:16.539Z",
                 "updated_at": "2019-01-17T21:46:16.539Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22711,7 +22711,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:16.537Z",
                 "updated_at": "2019-01-17T21:46:16.537Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -22725,7 +22725,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:16.535Z",
                 "updated_at": "2019-01-17T21:46:16.535Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -22758,7 +22758,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.609Z",
                 "updated_at": "2019-01-17T21:46:20.609Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -22772,7 +22772,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.607Z",
                 "updated_at": "2019-01-17T21:46:20.607Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -22786,7 +22786,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:20.606Z",
                 "updated_at": "2019-01-17T21:46:20.606Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22819,7 +22819,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:15.892Z",
                 "updated_at": "2019-01-17T21:46:15.892Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -22833,7 +22833,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:15.891Z",
                 "updated_at": "2019-01-17T21:46:15.891Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -22847,7 +22847,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:15.889Z",
                 "updated_at": "2019-01-17T21:46:15.889Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -22861,7 +22861,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:15.888Z",
                 "updated_at": "2019-01-17T21:46:15.888Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22875,7 +22875,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:15.886Z",
                 "updated_at": "2019-01-17T21:46:15.886Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -22889,7 +22889,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:15.885Z",
                 "updated_at": "2019-01-17T21:46:15.885Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -22903,7 +22903,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:15.883Z",
                 "updated_at": "2019-01-17T21:46:15.883Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22917,7 +22917,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:15.882Z",
                 "updated_at": "2019-01-17T21:46:15.882Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22931,7 +22931,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:15.880Z",
                 "updated_at": "2019-01-17T21:46:15.880Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -22945,7 +22945,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:15.877Z",
                 "updated_at": "2019-01-17T21:46:15.877Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22959,7 +22959,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:15.875Z",
                 "updated_at": "2019-01-17T21:46:15.875Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -22973,7 +22973,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:15.874Z",
                 "updated_at": "2019-01-17T21:46:15.874Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -22987,7 +22987,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:15.872Z",
                 "updated_at": "2019-01-17T21:46:15.872Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -23001,7 +23001,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:15.870Z",
                 "updated_at": "2019-01-17T21:46:15.870Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23034,7 +23034,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.190Z",
                 "updated_at": "2019-01-17T21:46:20.190Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -23067,7 +23067,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.112Z",
                 "updated_at": "2019-01-17T21:46:21.112Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -23081,7 +23081,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:21.111Z",
                 "updated_at": "2019-01-17T21:46:21.111Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -23095,7 +23095,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:21.109Z",
                 "updated_at": "2019-01-17T21:46:21.109Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23109,7 +23109,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:21.108Z",
                 "updated_at": "2019-01-17T21:46:21.108Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -23123,7 +23123,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:21.106Z",
                 "updated_at": "2019-01-17T21:46:21.106Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -23137,7 +23137,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:21.105Z",
                 "updated_at": "2019-01-17T21:46:21.105Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -23151,7 +23151,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.103Z",
                 "updated_at": "2019-01-17T21:46:21.103Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -23165,7 +23165,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:21.101Z",
                 "updated_at": "2019-01-17T21:46:21.101Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -23179,7 +23179,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:21.100Z",
                 "updated_at": "2019-01-17T21:46:21.100Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -23193,7 +23193,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:21.098Z",
                 "updated_at": "2019-01-17T21:46:21.098Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -23226,7 +23226,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:17.476Z",
                 "updated_at": "2019-01-17T21:46:17.476Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -23240,7 +23240,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:17.474Z",
                 "updated_at": "2019-01-17T21:46:17.474Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -23254,7 +23254,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:17.468Z",
                 "updated_at": "2019-01-17T21:46:17.468Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -23268,7 +23268,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:17.425Z",
                 "updated_at": "2019-01-17T21:46:17.425Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -23282,7 +23282,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:17.423Z",
                 "updated_at": "2019-01-17T21:46:17.423Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -23315,7 +23315,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:20.023Z",
                 "updated_at": "2019-01-17T21:46:20.023Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23329,7 +23329,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.021Z",
                 "updated_at": "2019-01-17T21:46:20.021Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -23343,7 +23343,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:20.018Z",
                 "updated_at": "2019-01-17T21:46:20.018Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -23357,7 +23357,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.017Z",
                 "updated_at": "2019-01-17T21:46:20.017Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -23371,7 +23371,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:20.015Z",
                 "updated_at": "2019-01-17T21:46:20.015Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -23385,7 +23385,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:20.013Z",
                 "updated_at": "2019-01-17T21:46:20.013Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -23399,7 +23399,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:20.011Z",
                 "updated_at": "2019-01-17T21:46:20.011Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23413,7 +23413,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:20.010Z",
                 "updated_at": "2019-01-17T21:46:20.010Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -23427,7 +23427,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.008Z",
                 "updated_at": "2019-01-17T21:46:20.008Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -23441,7 +23441,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.006Z",
                 "updated_at": "2019-01-17T21:46:20.006Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -23455,7 +23455,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:20.005Z",
                 "updated_at": "2019-01-17T21:46:20.005Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -23488,7 +23488,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.054Z",
                 "updated_at": "2019-01-17T21:46:21.054Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -23502,7 +23502,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.052Z",
                 "updated_at": "2019-01-17T21:46:21.052Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -23516,7 +23516,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.049Z",
                 "updated_at": "2019-01-17T21:46:21.049Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -23530,7 +23530,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:20.964Z",
                 "updated_at": "2019-01-17T21:46:20.964Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23544,7 +23544,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:20.920Z",
                 "updated_at": "2019-01-17T21:46:20.920Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -23577,7 +23577,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.632Z",
                 "updated_at": "2019-01-17T21:46:18.632Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -23591,7 +23591,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.630Z",
                 "updated_at": "2019-01-17T21:46:18.630Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -23605,7 +23605,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.629Z",
                 "updated_at": "2019-01-17T21:46:18.629Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -23619,7 +23619,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.627Z",
                 "updated_at": "2019-01-17T21:46:18.627Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -23633,7 +23633,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:18.626Z",
                 "updated_at": "2019-01-17T21:46:18.626Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -23647,7 +23647,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.624Z",
                 "updated_at": "2019-01-17T21:46:18.624Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -23661,7 +23661,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.623Z",
                 "updated_at": "2019-01-17T21:46:18.623Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23675,7 +23675,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.621Z",
                 "updated_at": "2019-01-17T21:46:18.621Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23689,7 +23689,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:18.620Z",
                 "updated_at": "2019-01-17T21:46:18.620Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -23703,7 +23703,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.618Z",
                 "updated_at": "2019-01-17T21:46:18.618Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -23717,7 +23717,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:18.616Z",
                 "updated_at": "2019-01-17T21:46:18.616Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -23731,7 +23731,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:18.615Z",
                 "updated_at": "2019-01-17T21:46:18.615Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -23745,7 +23745,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.613Z",
                 "updated_at": "2019-01-17T21:46:18.613Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -23759,7 +23759,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.612Z",
                 "updated_at": "2019-01-17T21:46:18.612Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -23773,7 +23773,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.610Z",
                 "updated_at": "2019-01-17T21:46:18.610Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -23806,7 +23806,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:18.371Z",
                 "updated_at": "2019-01-17T21:46:18.371Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -23820,7 +23820,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:18.370Z",
                 "updated_at": "2019-01-17T21:46:18.370Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23834,7 +23834,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:18.368Z",
                 "updated_at": "2019-01-17T21:46:18.368Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -23848,7 +23848,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:18.367Z",
                 "updated_at": "2019-01-17T21:46:18.367Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23862,7 +23862,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:18.365Z",
                 "updated_at": "2019-01-17T21:46:18.365Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -23876,7 +23876,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:18.363Z",
                 "updated_at": "2019-01-17T21:46:18.363Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -23890,7 +23890,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:18.362Z",
                 "updated_at": "2019-01-17T21:46:18.362Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -23904,7 +23904,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:18.360Z",
                 "updated_at": "2019-01-17T21:46:18.360Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -23918,7 +23918,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:18.359Z",
                 "updated_at": "2019-01-17T21:46:18.359Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23932,7 +23932,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:18.357Z",
                 "updated_at": "2019-01-17T21:46:18.357Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -23946,7 +23946,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:18.355Z",
                 "updated_at": "2019-01-17T21:46:18.355Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -23960,7 +23960,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:18.354Z",
                 "updated_at": "2019-01-17T21:46:18.354Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -23974,7 +23974,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:18.352Z",
                 "updated_at": "2019-01-17T21:46:18.352Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -24007,7 +24007,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.413Z",
                 "updated_at": "2019-01-17T21:46:22.413Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -24021,7 +24021,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.411Z",
                 "updated_at": "2019-01-17T21:46:22.411Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -24035,7 +24035,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:22.410Z",
                 "updated_at": "2019-01-17T21:46:22.410Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -24049,7 +24049,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.408Z",
                 "updated_at": "2019-01-17T21:46:22.408Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -24063,7 +24063,7 @@ export default [
                 "body": "Rhetoric is the art of ruling the minds of men.",
                 "created_at": "2019-01-17T21:46:22.407Z",
                 "updated_at": "2019-01-17T21:46:22.407Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -24077,7 +24077,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:22.405Z",
                 "updated_at": "2019-01-17T21:46:22.405Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -24091,7 +24091,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:22.404Z",
                 "updated_at": "2019-01-17T21:46:22.404Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -24105,7 +24105,7 @@ export default [
                 "body": "Good habits formed at youth make all the difference.",
                 "created_at": "2019-01-17T21:46:22.402Z",
                 "updated_at": "2019-01-17T21:46:22.402Z",
-                "reviewer": {
+                "answerer": {
                     "id": 61,
                     "first_name": "Noma",
                     "last_name": "Jerde",
@@ -24119,7 +24119,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:22.401Z",
                 "updated_at": "2019-01-17T21:46:22.401Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -24133,7 +24133,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:22.399Z",
                 "updated_at": "2019-01-17T21:46:22.399Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -24147,7 +24147,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:22.397Z",
                 "updated_at": "2019-01-17T21:46:22.397Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -24161,7 +24161,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:22.396Z",
                 "updated_at": "2019-01-17T21:46:22.396Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -24175,7 +24175,7 @@ export default [
                 "body": "Pleasure in the job puts perfection in the work.",
                 "created_at": "2019-01-17T21:46:22.394Z",
                 "updated_at": "2019-01-17T21:46:22.394Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -24189,7 +24189,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:22.392Z",
                 "updated_at": "2019-01-17T21:46:22.392Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -24203,7 +24203,7 @@ export default [
                 "body": "Beware the barrenness of a busy life.",
                 "created_at": "2019-01-17T21:46:22.391Z",
                 "updated_at": "2019-01-17T21:46:22.391Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -24236,7 +24236,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.586Z",
                 "updated_at": "2019-01-17T21:46:21.586Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -24250,7 +24250,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:21.585Z",
                 "updated_at": "2019-01-17T21:46:21.585Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",
@@ -24264,7 +24264,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.583Z",
                 "updated_at": "2019-01-17T21:46:21.583Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -24278,7 +24278,7 @@ export default [
                 "body": "A few vices are sufficient to darken many virtues.",
                 "created_at": "2019-01-17T21:46:21.582Z",
                 "updated_at": "2019-01-17T21:46:21.582Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -24292,7 +24292,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:21.580Z",
                 "updated_at": "2019-01-17T21:46:21.580Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -24306,7 +24306,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:21.578Z",
                 "updated_at": "2019-01-17T21:46:21.578Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -24320,7 +24320,7 @@ export default [
                 "body": "There was never a genius without a tincture of madness.",
                 "created_at": "2019-01-17T21:46:21.577Z",
                 "updated_at": "2019-01-17T21:46:21.577Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -24334,7 +24334,7 @@ export default [
                 "body": "Most people would rather give than get affection.",
                 "created_at": "2019-01-17T21:46:21.575Z",
                 "updated_at": "2019-01-17T21:46:21.575Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -24348,7 +24348,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:21.574Z",
                 "updated_at": "2019-01-17T21:46:21.574Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -24362,7 +24362,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:21.572Z",
                 "updated_at": "2019-01-17T21:46:21.572Z",
-                "reviewer": {
+                "answerer": {
                     "id": 65,
                     "first_name": "Andres",
                     "last_name": "Braun",
@@ -24376,7 +24376,7 @@ export default [
                 "body": "Control thy passions lest they take vengence on thee.",
                 "created_at": "2019-01-17T21:46:21.570Z",
                 "updated_at": "2019-01-17T21:46:21.570Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -24409,7 +24409,7 @@ export default [
                 "body": "Philosophy is the highest music.",
                 "created_at": "2019-01-17T21:46:20.755Z",
                 "updated_at": "2019-01-17T21:46:20.755Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -24423,7 +24423,7 @@ export default [
                 "body": "Dignity does not consist in possessing honors, but in deserving them.",
                 "created_at": "2019-01-17T21:46:20.753Z",
                 "updated_at": "2019-01-17T21:46:20.753Z",
-                "reviewer": {
+                "answerer": {
                     "id": 68,
                     "first_name": "Sanford",
                     "last_name": "Price",
@@ -24437,7 +24437,7 @@ export default [
                 "body": "The unexamined life is not worth living.",
                 "created_at": "2019-01-17T21:46:20.752Z",
                 "updated_at": "2019-01-17T21:46:20.752Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -24451,7 +24451,7 @@ export default [
                 "body": "The virtue of justice consists in moderation, as regulated by wisdom.",
                 "created_at": "2019-01-17T21:46:20.750Z",
                 "updated_at": "2019-01-17T21:46:20.750Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -24465,7 +24465,7 @@ export default [
                 "body": "Love is composed of a single soul inhabiting two bodies.",
                 "created_at": "2019-01-17T21:46:20.748Z",
                 "updated_at": "2019-01-17T21:46:20.748Z",
-                "reviewer": {
+                "answerer": {
                     "id": 62,
                     "first_name": "Rebekah",
                     "last_name": "Hane",
@@ -24498,7 +24498,7 @@ export default [
                 "body": "The mind is not a vessel to be filled but a fire to be kindled.",
                 "created_at": "2019-01-17T21:46:17.122Z",
                 "updated_at": "2019-01-17T21:46:17.122Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -24512,7 +24512,7 @@ export default [
                 "body": "Quality is not an act, it is a habit.",
                 "created_at": "2019-01-17T21:46:17.120Z",
                 "updated_at": "2019-01-17T21:46:17.120Z",
-                "reviewer": {
+                "answerer": {
                     "id": 63,
                     "first_name": "Azalee",
                     "last_name": "Dietrich",
@@ -24526,7 +24526,7 @@ export default [
                 "body": "Only the educated are free.",
                 "created_at": "2019-01-17T21:46:17.117Z",
                 "updated_at": "2019-01-17T21:46:17.117Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -24540,7 +24540,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.115Z",
                 "updated_at": "2019-01-17T21:46:17.115Z",
-                "reviewer": {
+                "answerer": {
                     "id": 60,
                     "first_name": "Vincenzo",
                     "last_name": "Cummerata",
@@ -24554,7 +24554,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.113Z",
                 "updated_at": "2019-01-17T21:46:17.113Z",
-                "reviewer": {
+                "answerer": {
                     "id": 67,
                     "first_name": "Kenneth",
                     "last_name": "Gottlieb",
@@ -24568,7 +24568,7 @@ export default [
                 "body": "It is impossible to begin to learn that which one thinks one already knows.",
                 "created_at": "2019-01-17T21:46:17.111Z",
                 "updated_at": "2019-01-17T21:46:17.111Z",
-                "reviewer": {
+                "answerer": {
                     "id": 64,
                     "first_name": "Cleveland",
                     "last_name": "Wunsch",
@@ -24582,7 +24582,7 @@ export default [
                 "body": "The secret to humor is surprise.",
                 "created_at": "2019-01-17T21:46:17.109Z",
                 "updated_at": "2019-01-17T21:46:17.109Z",
-                "reviewer": {
+                "answerer": {
                     "id": 69,
                     "first_name": "Valentine",
                     "last_name": "Altenwerth",
@@ -24596,7 +24596,7 @@ export default [
                 "body": "It's not what happens to you, but how you react to it that matters.",
                 "created_at": "2019-01-17T21:46:17.108Z",
                 "updated_at": "2019-01-17T21:46:17.108Z",
-                "reviewer": {
+                "answerer": {
                     "id": 59,
                     "first_name": "Jon",
                     "last_name": "Snow",
@@ -24610,7 +24610,7 @@ export default [
                 "body": "Know how to listen, and you will profit even from those who talk badly.",
                 "created_at": "2019-01-17T21:46:17.106Z",
                 "updated_at": "2019-01-17T21:46:17.106Z",
-                "reviewer": {
+                "answerer": {
                     "id": 66,
                     "first_name": "Michael",
                     "last_name": "Goldner",

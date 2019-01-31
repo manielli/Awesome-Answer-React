@@ -11,7 +11,7 @@ const AnswerDetails = props => {
         }}>
             <p>{props.body}</p>
             <p>
-                <small>By {props.reviewer.full_name}</small> <br/>
+                <small>By {props.answerer.full_name}</small> <br/>
                 <small>
                     <strong>Created At:</strong>{props.created_at.toLocaleString()}
                 </small>

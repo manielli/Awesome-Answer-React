@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import NewQuestionForm from "./NewQuestionForm";
-import CurrentDateTime from "./CurrentDateTime";
+// import CurrentDateTime from "./CurrentDateTime";
 
 import { Question } from "../requests";
 
@@ -15,9 +15,12 @@ class QuestionIndexPage extends Component {
     // window.questions = props.questions;
 
     this.state = {
+      
       // questions: [ ...this.props.questions ],
-      questions: null,
-      shouldShowTime: true 
+      questions: null//,
+
+
+      // shouldShowTime: true 
       // determine whether the CurrentDateTime component
       // should be displayed.
     };
@@ -73,6 +76,7 @@ class QuestionIndexPage extends Component {
     // this.state.questions is `null`.
     // So, until the have received them, display a loading message to
     // the user.
+    
     if (!this.state.questions) {
       return (
         <main>
@@ -85,28 +89,38 @@ class QuestionIndexPage extends Component {
     // i.e. QuestionIndexPage's state now has an array as its
     // value for this.state.questions, we should display that
     // list of questions.
+    
     return (
       <main>
-        {this.state.shouldShowTime ? <CurrentDateTime onlyTime={false} /> : null}
+
+        {/* {this.state.shouldShowTime ? <CurrentDateTime onlyTime={false} /> : null}
         <button onClick={() => this.setState({
           shouldShowTime: !this.state.shouldShowTime
-        })} >Toggle Time Show</button>
+        })} >Toggle Time Show</button> */}
+        
         <NewQuestionForm onSubmit={this.createQuestion}/>
+        
         <h1>Questions</h1>
+
         <ul style={{
-            padding: 0,
-            listStyle: "none"
-          }}>
-              {this.state.questions.map(question => (
-                <li key={question.id}>
-                    {/* <a href="#ignore-me">{question.title}</a> <br/> */}
-                    <Link to={`/questions/${question.id}`}>{question.title}</Link> <br />
-                    <button onClick={event => {
-                      // console.log("Delete clicked!");
-                      this.deleteQuestion(question.id);
-                    }} >Delete</button>
-                </li>  
-              ))}
+          padding: 0,
+          listStyle: "none"
+        }}>
+
+          {this.state.questions.map(question => (
+
+            <li key={question.id}>
+
+              {/* <a href="#ignore-me">{question.title}</a> <br/> */}
+              <Link to={`/questions/${question.id}`}>{question.title}</Link> <br />
+                    
+              <button onClick={event => {
+                // console.log("Delete clicked!");
+                this.deleteQuestion(question.id);
+              }} >Delete</button>
+            </li>  
+          ))}
+
         </ul>
       </main>
     );
