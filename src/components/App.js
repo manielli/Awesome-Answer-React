@@ -35,8 +35,9 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      currentUser: null//,
+      currentUser: null,//,
       // shouldShowTime: true
+      loading: true,
     }
 
     this.getCurrentUser = this.getCurrentUser.bind(this);
@@ -59,9 +60,12 @@ class App extends Component {
       const { current_user: currentUser } = data;
       
       
-        if (currentUser) {
-          this.setState({currentUser});
-        }
+      if (currentUser) {
+        this.setState({currentUser});
+      }
+
+      this.setState({loading: false});
+
      });
   }
 
@@ -89,7 +93,7 @@ class App extends Component {
   }
 
   render() {
-    const { currentUser } = this.state;
+    const { currentUser, loading } = this.state;
 
     return (
       // We need to wrap all components that are imported from react-router-dom
@@ -111,19 +115,25 @@ class App extends Component {
           determine which component to render and when to show that component
           When the path matches in the url bar, it will show the compnent 
           given to the component prop */}
-
-
-          {/* We use the `exact` prop to exactly match the url in the
-            url bar. Otherwise the path will match any path beginning with 
-            the path given to `path` prop */}
-          <Switch>
-            <AuthRoute isAuth={currentUser} path="/questions/new" component={QuestionNewPage} />
-            <Route path="/" exact component={WelcomePage} />
-            <Route path="/questions" exact component={QuestionIndexPage} />
-            <Route path="/questions/:id" exact component={QuestionShowPage} />
-            <Route path="/sign_in" render={routeProps => <SignInPage {...routeProps} onSignIn={this.getCurrentUser} />}  />
-            <Route component={NotFoundPage} />
-          </Switch>
+          {
+            loading ? (
+              <main>
+                <h1>Loading...</h1>
+              </main>
+            ) : (
+              {/* We use the `exact` prop to exactly match the url in the
+              url bar. Otherwise the path will match any path beginning with 
+              the path given to `path` prop */}
+              <Switch>
+                <AuthRoute isAuth={currentUser} path="/questions/new" component={QuestionNewPage} />
+                <Route path="/" exact component={WelcomePage} />
+                <Route path="/questions" exact component={QuestionIndexPage} />
+                <Route path="/questions/:id" exact component={QuestionShowPage} />
+                <Route path="/sign_in" render={routeProps => <SignInPage {...routeProps} onSignIn={this.getCurrentUser} />}  />
+                <Route component={NotFoundPage} />
+              </Switch>
+            )
+          }
         </div>      
       </BrowserRouter>
     );
