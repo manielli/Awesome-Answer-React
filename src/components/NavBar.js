@@ -18,6 +18,10 @@ const NavBar = props => {
             NavLink takes a prop `to` which is a path to navigate to */}
             <NavLink exact to="/">Home</NavLink>
             <NavLink exact to="/questions">Questions</NavLink>
+            { currentUser ? (
+                <NavLink exact to="/questions/new" >Ask a Question</NavLink>
+            ) : null
+            }
             {
                 currentUser ? (
                     <>

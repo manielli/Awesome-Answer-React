@@ -5,19 +5,22 @@ import QuestionIndexPage from "./QuestionIndexPage";
 
 // import questionsData from "../questionsData";
 // import questionData from "../questionData";
-
 // import CurrentDateTime from "./CurrentDateTime";
 
 import { Session } from "../requests";
 // import { Question } from "../requests";
-import { User } from "../requests";
 
 import NavBar from "./NavBar";
 import WelcomePage from "./WelcomePage";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+
+
 import SignInPage from "./SignInPage";
-import {BrowserRouter, Route} from "react-router-dom";
+import { User } from "../requests";
+import QuestionNewPage from "./QuestionNewPage";
+import AuthRoute from "./AuthRoute";
 
-
+import NotFoundPage from "./NotFoundPage";
 
 // This allows us to use the Question and Session helper modules
 // that we created directly from the console
@@ -50,7 +53,7 @@ class App extends Component {
 
   getCurrentUser() {
     User
-    .current().then(data => {
+      .current().then(data => {
       // This is destructuring the `data` but also redefine the current_user we got form API
       // to currentUser that we used all over this react app and it is CamelCase
       const { current_user: currentUser } = data;
@@ -113,11 +116,14 @@ class App extends Component {
           {/* We use the `exact` prop to exactly match the url in the
             url bar. Otherwise the path will match any path beginning with 
             the path given to `path` prop */}
-
-          <Route path="/" exact component={WelcomePage} />
-          <Route path="/questions" exact component={QuestionIndexPage} />
-          <Route path="/questions/:id" exact component={QuestionShowPage} />
-          <Route path="/sign_in" render={authProps => <SignInPage {...authProps} onSignIn={this.getCurrentUser} />}  />
+          <Switch>
+            <AuthRoute isAuth={currentUser} path="/questions/new" component={QuestionNewPage} />
+            <Route path="/" exact component={WelcomePage} />
+            <Route path="/questions" exact component={QuestionIndexPage} />
+            <Route path="/questions/:id" exact component={QuestionShowPage} />
+            <Route path="/sign_in" render={routeProps => <SignInPage {...routeProps} onSignIn={this.getCurrentUser} />}  />
+            <Route component={NotFoundPage} />
+          </Switch>
         </div>      
       </BrowserRouter>
     );
