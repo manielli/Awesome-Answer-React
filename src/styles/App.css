@@ -8,24 +8,24 @@ nav {
     display: flex;
   }
   
-  nav > * {
+nav > * {
     padding: 10px;
-  }
+}
   
-  nav a {
+nav a {
     color: whitesmoke;
     text-decoration: none;
     font-weight: bold;
-  }
+}
 
-  nav a.active {
-      background-color: seagreen;
-  }
+nav a.active {
+    background-color: seagreen;
+}
 
-  .FormErrors {
-      padding: 5px;
-      border: 1px solid salmon;
-      background-color: lightpink;
-      border-radius: 3px;
-      margin-bottom: 5px;
-  }
+/* .FormErrors {
+    padding: 5px;
+    border: 1px solid salmon;
+    background-color: lightpink;
+    border-radius: 3px;
+    margin-bottom: 5px;
+} */

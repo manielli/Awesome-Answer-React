@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import NewQuestionForm from "./NewQuestionForm";
+// import NewQuestionForm from "./NewQuestionForm";
 // import CurrentDateTime from "./CurrentDateTime";
 
 import { Question } from "../requests";
@@ -25,7 +25,7 @@ class QuestionIndexPage extends Component {
       // should be displayed.
     };
 
-    this.createQuestion = this.createQuestion.bind(this);
+    // this.createQuestion = this.createQuestion.bind(this);
   }
 
   componentDidMount() {
@@ -59,17 +59,17 @@ class QuestionIndexPage extends Component {
     // http://reactjs.org/docs/state-and-lifecycle.html
   }
 
-  createQuestion(params) {
-    this.setState((state) => ({
-      questions: [
-       {
-         id: Math.max(...state.questions.map(q => q.id)) + 1,
-         ...params
-       },
-       ...state.questions
-      ]
-    }));
-  }
+  // createQuestion(params) {
+  //   this.setState((state) => ({
+  //     questions: [
+  //      {
+  //        id: Math.max(...state.questions.map(q => q.id)) + 1,
+  //        ...params
+  //      },
+  //      ...state.questions
+  //     ]
+  //   }));
+  // }
 
   render () {
     // Initially, before we have received our list of questions from the server
@@ -98,7 +98,7 @@ class QuestionIndexPage extends Component {
           shouldShowTime: !this.state.shouldShowTime
         })} >Toggle Time Show</button> */}
         
-        <NewQuestionForm onSubmit={this.createQuestion}/>
+        {/* <NewQuestionForm onSubmit={this.createQuestion}/> */}
         
         <h1>Questions</h1>
 

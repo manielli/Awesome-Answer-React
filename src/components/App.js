@@ -120,11 +120,13 @@ class App extends Component {
               <main>
                 <h1>Loading...</h1>
               </main>
+              
             ) : (
-              {/* We use the `exact` prop to exactly match the url in the
-              url bar. Otherwise the path will match any path beginning with 
-              the path given to `path` prop */}
+
               <Switch>
+                {/* We use the `exact` prop to exactly match the url in the
+                url bar. Otherwise the path will match any path beginning with 
+                the path given to `path` prop */}
                 <AuthRoute isAuth={currentUser} path="/questions/new" component={QuestionNewPage} />
                 <Route path="/" exact component={WelcomePage} />
                 <Route path="/questions" exact component={QuestionIndexPage} />

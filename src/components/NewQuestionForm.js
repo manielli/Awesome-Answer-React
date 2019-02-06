@@ -1,8 +1,8 @@
 import React from "react";
-
-
+import FormErrors from "./FormErrors";
 
 const NewQuestionForm = props => {
+  const { errors = [] } = props;
     const handleSubmit = event => {
         event.preventDefault();
     
@@ -14,17 +14,22 @@ const NewQuestionForm = props => {
             body: formData.get("body")
         });
 
-        currentTarget.reset();
+        // currentTarget.reset();
     };
 
     return (
         <form className="QuestionForm" onSubmit={handleSubmit}>
+        {/* <p>
+          {errors.map(e => e.message).join(", ")}
+        </p> */}
         <div>
           <label htmlFor="title">Title</label> <br />
+          <FormErrors noField forField="title" errors={errors} />
           <input name="title" id="title" />
         </div>
         <div>
           <label htmlFor="body">Body</label> <br />
+          <FormErrors noField forField="body" errors={errors} />
           <textarea name="body" id="body" cols="60" rows="4" />
         </div>
         <div>
