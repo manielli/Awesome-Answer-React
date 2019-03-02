@@ -24,18 +24,17 @@ export const Question = {
 
 export const Session = {
     create(params) {
-        return fetch(
-            `${BASE_URL}/session`, {
-                method: "POST",
-                credentials: "include",
-                // To include the cookie when doing a fetch, use the
-                // "credentials" option with the value "include" for
-                // cross-origin requests or with the value "same-origin"
-                // for requests on the same origin.
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify(params)
+        return fetch(`${BASE_URL}/session`, {
+            method: "POST",
+            credentials: "include",
+            // To include the cookie when doing a fetch, use the
+            // "credentials" option with the value "include" for
+            // cross-origin requests or with the value "same-origin"
+            // for requests on the same origin.
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(params)
         }).then(res => res.json());
     },
     destroy(){

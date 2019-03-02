@@ -35,9 +35,9 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      currentUser: null,//,
-      // shouldShowTime: true
-      loading: true,
+      currentUser: null,
+      // shouldShowTime: true,
+      loading: true
     }
 
     this.getCurrentUser = this.getCurrentUser.bind(this);
@@ -122,7 +122,6 @@ class App extends Component {
               </main>
               
             ) : (
-
               <Switch>
                 {/* We use the `exact` prop to exactly match the url in the
                 url bar. Otherwise the path will match any path beginning with 

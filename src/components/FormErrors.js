@@ -11,13 +11,14 @@ const FormErrors = props => {
         );
     }
 
-    return filteredErrors.lentgh > 0 ? (
+    return filteredErrors.length > 0 ? (
         <ul className="FormErrors" >
             {
                 filteredErrors.map((error, i) => (
                     <li key={i} >
                         {/* {!noField && error.field} {error.message} */}
                         {!noField ? error.field : null} {error.message}
+                        {/* {error.message} */}
                     </li>
                 ))
             }

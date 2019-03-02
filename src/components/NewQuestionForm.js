@@ -3,24 +3,24 @@ import FormErrors from "./FormErrors";
 
 const NewQuestionForm = props => {
   const { errors = [] } = props;
-    const handleSubmit = event => {
-        event.preventDefault();
+  const handleSubmit = event => {
+      event.preventDefault();
     
-        const { currentTarget } = event;
-        const formData = new FormData(currentTarget);
+      const { currentTarget } = event;
+      const formData = new FormData(currentTarget);
     
-        props.onSubmit({
-            title: formData.get("title"),
-            body: formData.get("body")
-        });
+      props.onSubmit({
+          title: formData.get("title"),
+          body: formData.get("body")
+      });
 
         // currentTarget.reset();
-    };
+  };
 
-    return (
-        <form className="QuestionForm" onSubmit={handleSubmit}>
+  return (
+      <form className="QuestionForm" onSubmit={handleSubmit}>
         {/* <p>
-          {errors.map(e => e.message).join(", ")}
+        {errors.map(e => e.message).join(", ")}
         </p> */}
         <div>
           <label htmlFor="title">Title</label> <br />
